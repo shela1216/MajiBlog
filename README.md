@@ -23,6 +23,7 @@
 `npm i hexo-theme-butterfly`
 
 - 參考: https://github.com/jerryc127/hexo-theme-butterfly
+- 配置文件：https://butterfly.js.org/posts/4aa8abbe/
 
 4. 發布github
 
