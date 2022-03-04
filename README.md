@@ -39,3 +39,11 @@
 5. 設定評論(Waline)
 
 https://waline.js.org/guide/get-started.html#vercel-%E9%83%A8%E7%BD%B2-%E6%9C%8D%E5%8A%A1%E7%AB%AF
+
+6. markdown 筆記
+
+https://www.mdeditor.tw/
+
+7. hexo新增文章
+
+`hexo new [layout] <title>`

@@ -106,3 +106,8 @@ deploy:
   repo: https://github.com/shela1216/MajiBlog
     # example, https://github.com/hexojs/hexojs.github.io
   branch: gh-pages
+
+algolia:
+  applicationID: 'M29RKDPNVH'
+  apiKey: 'e3d515a211dc59edb48cf109032c398d'
+  indexName: '...'
