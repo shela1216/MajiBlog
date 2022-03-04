@@ -47,3 +47,7 @@ https://www.mdeditor.tw/
 7. hexo新增文章
 
 `hexo new [layout] <title>`
+
+8. hexo標籤外掛
+
+https://hexo.io/zh-tw/docs/tag-plugins.html
