@@ -13,6 +13,8 @@ menu:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
   兔管家: /categories/兔管家/ || fas fa-face-smile
+  遊戲攻略||fas fa-gamepad||hide:
+    夢幻新誅仙: /categories/夢幻新誅仙/ || fas fa-book
   推薦: /link/ || fas fa-link
 
 
