@@ -16,16 +16,16 @@ cover: https://i.imgur.com/xX6L6mq.jpg
 
 ## 空桑山：
 
-![空桑山](https://www.steamxo.com/wp-content/uploads/2021/06/LQhtkv122139_2026855.jpg)
+![空桑山](https://i.imgur.com/KrSv6ox.jpg)
 
 ## 河陽城：
 
-![河陽城](https://www.steamxo.com/wp-content/uploads/2021/06/4e7c37122141_2026855.jpg)
+![河陽城](https://i.imgur.com/5GG4jRq.jpg)
 
 ## 草廟村：
 
-![草廟村](https://www.steamxo.com/wp-content/uploads/2021/06/0WHm1i122143_2026855.jpg)
+![草廟村](https://i.imgur.com/RrbuuIQ.jpg)
 
 ## 青雲山：
 
-![青雲山](https://www.steamxo.com/wp-content/uploads/2021/06/3jJ9MZ122145_2026855.jpg)
+![青雲山](https://i.imgur.com/Xgq7kMw.jpg)
