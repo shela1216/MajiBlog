@@ -42,7 +42,7 @@ copy:
 social:
   fab fa-github: https://github.com/shela1216 || Github
   fas fa-envelope: mailto:shela1216@gmail.com || Email
-
+  fas fa-qrcode: https://lin.ee/Dj8NIuf || LINE兔管家機器人
 # search (搜索)
 # --------------------------------------
 
@@ -630,7 +630,7 @@ aside:
       text: Maji兔 GitHub
       link: https://github.com/shela1216
   card_announcement:
-    enable: true
+    enable: false
     content: This is my Blog
   card_recent_post:
     enable: true
@@ -919,3 +919,16 @@ CDN:
   prismjs_js:
   prismjs_lineNumber_js:
   prismjs_autoloader:
+
+  #see https://www.npmjs.com/package/hexo-butterfly-charts
+charts:
+  enable: true
+  postsChart:
+    title: 文章發佈統計 
+    interval: 1
+  tagsChart:
+    title: Top 10 tags 
+    interval: 1 
+  postsCalendar_Title: 文章發佈日曆
+  categoriesChart_Title: 分類統計
+  categoriesRadar_Title: 分類雷達

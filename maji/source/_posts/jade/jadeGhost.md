@@ -29,3 +29,15 @@ cover: https://i.imgur.com/xX6L6mq.jpg
 ## 青雲山：
 
 ![青雲山](https://i.imgur.com/Xgq7kMw.jpg)
+
+## 昌合城：
+
+![昌合城](https://i.imgur.com/Xgq7kMw.jpg)
+
+## 月光森林：
+
+![月光森林](https://i.imgur.com/hMlEGqd.jpg)
+
+## 小池鎮：
+
+![小池鎮](https://i.imgur.com/pjFy18Z.jpg)

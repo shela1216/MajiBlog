@@ -15,6 +15,10 @@ description: 兔管家是一個在Line群組使用的免費機器人系統，可
 
 兔管家是一個在Line群組使用的免費機器人系統，可以協助群組管理員管理會員名單，設定攻略關鍵字。並支援所列出的遊戲提供相關攻略檢索。
 
+<a href="https://lin.ee/Dj8NIuf"><img height="36" border="0" src="https://scdn.line-apps.com/n/line_add_friends/btn/zh-Hant.png"></a>
+
+![兔管家QRCODE](https://i.imgur.com/PnkzdWh.png)
+
 # 兔管家支援遊戲
 
 1. RO ORIGIN
