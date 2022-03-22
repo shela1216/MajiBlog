@@ -32,7 +32,7 @@ cover: https://i.imgur.com/xX6L6mq.jpg
 
 ## 昌合城：
 
-![昌合城](https://i.imgur.com/Xgq7kMw.jpg)
+![昌合城](https://i.imgur.com/cCWhwqR.jpg)
 
 ## 月光森林：
 
