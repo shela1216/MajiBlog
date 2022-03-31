@@ -41,3 +41,12 @@ cover: https://i.imgur.com/xX6L6mq.jpg
 ## 小池鎮：
 
 ![小池鎮](https://i.imgur.com/pjFy18Z.jpg)
+
+## 流波山：
+
+![流波山](https://i.imgur.com/5pCtyQE.jpg)
+
+## 焚香谷：
+
+![焚香谷](https://i.imgur.com/LBLbo8C.jpg)
+
