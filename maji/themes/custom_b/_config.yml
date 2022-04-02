@@ -626,7 +626,7 @@ aside:
     description:
     button:
       enable: true
-      icon: fab fa-github
+      icon: fas fa-qrcode
       text: 兔管家 LineBot
       link: https://line.me/R/ti/p/@777ccrtc
   card_announcement:
