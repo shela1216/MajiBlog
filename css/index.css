@@ -6013,6 +6013,17 @@ blockquote.pullquote.right {
 .read-mode #article-container .note .note-icon {
   color: var(--font-color);
 }
+.social-button a {
+  display: block;
+  background-color: var(--btn-bg);
+  color: var(--btn-color);
+  text-align: center;
+  line-height: 2.4;
+  margin: 4px 0;
+}
+.social-button a:hover {
+  background-color: var(--btn-hover-color);
+}
 .search-dialog {
   position: fixed;
   top: 100px;
