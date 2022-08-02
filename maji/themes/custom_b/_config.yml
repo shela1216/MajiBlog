@@ -631,8 +631,9 @@ aside:
       text: 兔管家 LineBot
       link: https://line.me/R/ti/p/@777ccrtc
   card_announcement:
-    enable: false
-    content: This is my Blog
+    enable: true
+    name: 駐站寫手
+    content: <div class="social-button"><a class="button--animated" href="https://www.youtube.com/c/%E9%98%BF%E8%90%AC" rel="YT阿萬" target="_blank">YT阿萬 👍</a><a class="button--animated" href="https://www.youtube.com/channel/UCtgRSMe6-_wnReqsZgu6kBQ" rel="YT皇后Grace" target="_blank">YT皇后Grace 👍</a><a class="button--animated" href="https://www.youtube.com/c/%E8%B2%9D%E7%91%9EBarry" rel="YT貝瑞Barry" target="_blank">YT貝瑞Barry 👍</a></div>
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -646,7 +647,7 @@ aside:
   card_tags:
     enable: true
     limit: 40 # if set 0 will show all
-    color: false
+    color: true
     sort_order: # Don't modify the setting unless you know how it works
   card_archives:
     enable: true
