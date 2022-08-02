@@ -55,3 +55,10 @@ https://hexo.io/zh-tw/docs/tag-plugins.html
 9. table產生器
 
 https://www.tablesgenerator.com/markdown_tables
+
+10. hexo單獨文章作者
+
+    copyright_author: xxxx
+    copyright_author_href: https://xxxxxx.com
+    copyright_url: https://xxxxxx.com
+    copyright_info: 此文章版權歸xxxxx所有，如有轉載，請註明來自原作者
