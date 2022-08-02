@@ -1,3 +1,18 @@
+- class_name: 駐站寫手
+  class_desc: 駐站寫手個人專區
+  link_list:
+    - name: YT阿萬
+      link: https://www.youtube.com/c/%E9%98%BF%E8%90%AC
+      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
+      descr: 遊戲youtuber
+    - name: YT皇后Grace
+      link: https://www.youtube.com/channel/UCtgRSMe6-_wnReqsZgu6kBQ
+      avatar: https://i.imgur.com/0NeTi4R.jpg
+      descr: 遊戲youtuber
+    - name: YT貝瑞Barry
+      link: https://www.youtube.com/c/%E8%B2%9D%E7%91%9EBarry
+      avatar: https://i.imgur.com/O7Sy8ER.png
+      descr: 遊戲youtuber
 - class_name: 友情連結
   class_desc: 那些人，那些事
   link_list:
@@ -9,13 +24,6 @@
       link: https://tywarm.shela-pro.net/
       avatar: https://i.imgur.com/SV8nW6j.png
       descr: 手遊天諭台版攻略網站
-- class_name: 其他網站
-  class_desc: 值得推薦的網站
-  link_list:
-    - name: Youtube
-      link: https://www.youtube.com/
-      avatar: https://i.loli.net/2020/05/14/9ZkGg8v3azHJfM1.png
-      descr: 視頻網站
 
     # - name: Weibo
     #   link: https://www.weibo.com/
