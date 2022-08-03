@@ -4,16 +4,17 @@
 
 # Site
 title: 攻略兔子
-subtitle: '紀錄各種手遊遊戲攻略'
-description: '遊戲心得，RO愛如初見、劍俠世界3、夢幻新誅仙'
-keywords: 前端,Front-End,Mobile,Mobile Game,兔,Maji兔
-author: Maji兔
+subtitle: '各種手遊遊戲攻略，Line群機器人開發'
+description: '遊戲群機器人-兔管家，遊戲攻略集成網站'
+keywords: 前端,Front-End,Mobile,Mobile Game,兔,Maji兔,兔管家
+author: 攻略兔子
 language: zh-TW
 timezone: ''
+email: shela1216@gmail.com
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://majiblog.majitoo.net/
+url: https://blog.majitoo.net/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -111,3 +112,5 @@ algolia:
   applicationID: 'M29RKDPNVH'
   apiKey: 'e3d515a211dc59edb48cf109032c398d'
   indexName: '...'
+
+copyavatar: /img/logo.png

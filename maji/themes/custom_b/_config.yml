@@ -487,7 +487,7 @@ index_top_img_height:
 # The user interface setting of category and tag page (category和tag頁的UI設置)
 # index - same as Homepage UI (index 值代表 UI將與首頁的UI一樣)
 # default - same as archives UI 默認跟archives頁面UI一樣
-category_ui: # 留空或 index
+category_ui: index # 留空或 index
 tag_ui: # 留空或 index
 
 # Website Background (設置網站背景)
@@ -641,7 +641,7 @@ aside:
     sort_order: # Don't modify the setting unless you know how it works
   card_categories:
     enable: true
-    limit: 8 # if set 0 will show all
+    limit: 10 # if set 0 will show all
     expand: none # none/true/false
     sort_order: # Don't modify the setting unless you know how it works
   card_tags:

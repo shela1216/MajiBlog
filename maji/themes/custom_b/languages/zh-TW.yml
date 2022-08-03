@@ -28,6 +28,7 @@ post:
   comments: 評論數
   copyright:
     author: 文章作者
+    authorLink: 作者網站
     link: 文章連結
     copyright_notice: 版權聲明
     copyright_content: '本部落格所有文章除特別聲明外，均採用

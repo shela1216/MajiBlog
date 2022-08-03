@@ -11,6 +11,9 @@ categories:
     - 夢幻新誅仙
 description: 《夢幻新誅仙》中需要玩家在各個地區尋找探靈，但每個地區的探靈具體位置都在哪呢，本文就給大家帶來全地區探靈位置的匯總，一起來看看吧。
 cover: https://i.imgur.com/xX6L6mq.jpg
+copyright_author: 攻略兔
+copyright_author_href: https://blog.majitoo.net/
+copyright_author_email: shela1216@gmail.com
 ---
 《夢幻新誅仙》中需要玩家在各個地區尋找探靈，但每個地區的探靈具體位置都在哪呢，本文就給大家帶來全地區探靈位置的匯總，一起來看看吧。
 
