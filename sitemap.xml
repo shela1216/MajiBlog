@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.majitoo.net/2022/03/04/bot/botNote/</loc>
+    
+    <lastmod>2022-08-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.majitoo.net/2022/08/06/roo/roosearch/</loc>
     
     <lastmod>2022-08-06</lastmod>
@@ -14,15 +23,6 @@
     <loc>https://blog.majitoo.net/2022/03/19/jade/jadeGhost/</loc>
     
     <lastmod>2022-08-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.majitoo.net/2022/03/04/bot/botNote/</loc>
-    
-    <lastmod>2022-07-30</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
