@@ -451,8 +451,8 @@ google_adsense:
 # --------------------------------------
 
 site_verification:
-  # - name: google-site-verification
-  #   content: xxxxxx
+  - name: google-site-verification
+    content: 4NVm7zl7hzZ
   # - name: baidu-site-verification
   #   content: xxxxxxx
 
@@ -935,3 +935,9 @@ charts:
   postsCalendar_Title: 文章發佈日曆
   categoriesChart_Title: 分類統計
   categoriesRadar_Title: 分類雷達
+
+# 注意：yml 非常在意縮排。
+sitemap:
+    path: sitemap.xml # 索引地图路径
+    tag: true # 标签页不添加到网站地图中
+    category: true # 分类页不添加到网站地图中
