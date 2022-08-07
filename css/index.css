@@ -6024,6 +6024,14 @@ blockquote.pullquote.right {
 .social-button a:hover {
   background-color: var(--btn-hover-color);
 }
+.nature_damage_25 {
+  color: #f47466;
+  background-color: #fff4f3;
+}
+.nature_damage_150 {
+  color: #49b1f5;
+  background-color: #c9eaff;
+}
 .search-dialog {
   position: fixed;
   top: 100px;
