@@ -150,7 +150,7 @@ cover: cover.jpg
                 <td class="nature_damage_100">100%</td>
                 <td class="nature_damage_100">100%</td>
                 <td class="nature_damage_100">100%</td>
-                <td class="nature_damage_125">125%</td>
+                <td class="nature_damage_150">125%</td>
                 <td class="nature_damage_150">200%</td>
                 <td class="nature_damage_150">200%</td>
                 <td class="nature_damage_25">25%</td>
