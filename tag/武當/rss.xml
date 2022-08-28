@@ -1,0 +1,137 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>LINE遊戲群機器人-兔管家 • Posts by &#34;武當&#34; tag</title>
+        <link>https://blog.majitoo.net</link>
+        <description>遊戲群機器人-兔管家，遊戲攻略集成網站</description>
+        <language>zh-TW</language>
+        <pubDate>Tue, 17 May 2022 17:19:36 +0800</pubDate>
+        <lastBuildDate>Tue, 17 May 2022 17:19:36 +0800</lastBuildDate>
+        <category>lineBot</category>
+        <category>機器人</category>
+        <category>兔管家</category>
+        <category>兔管家更新</category>
+        <category>V3.1.0</category>
+        <category>遊戲攻略</category>
+        <category>夢幻新誅仙</category>
+        <category>仙友</category>
+        <category>陣容</category>
+        <category>探靈</category>
+        <category>異聞</category>
+        <category>奇遇</category>
+        <category>奇緣</category>
+        <category>RO愛如初見</category>
+        <category>新手須知</category>
+        <category>新手</category>
+        <category>YT阿萬</category>
+        <category>屬性相剋</category>
+        <category>體型修正</category>
+        <category>波利手冊</category>
+        <category>波利</category>
+        <category>劍俠世界3</category>
+        <category>每日活動</category>
+        <category>限時活動</category>
+        <category>掛機</category>
+        <category>練功</category>
+        <category>戰力</category>
+        <category>裝備</category>
+        <category>武當</category>
+        <category>門派</category>
+        <category>易水</category>
+        <category>天忍</category>
+        <category>天王</category>
+        <category>白麓</category>
+        <category>升級</category>
+        <category>寵物</category>
+        <category>寵物圖鑑</category>
+        <item>
+            <guid isPermalink="true">https://blog.majitoo.net/2022/05/17/world3/work1/</guid>
+            <title>《劍俠世界3》武當 門派入門</title>
+            <link>https://blog.majitoo.net/2022/05/17/world3/work1/</link>
+            <category>劍俠世界3</category>
+            <category>武當</category>
+            <category>門派</category>
+            <pubDate>Tue, 17 May 2022 17:19:36 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;&lt;img src=&#34;https://i.imgur.com/aUlP6wG.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;技能簡介&#34;&gt;&lt;a href=&#34;#技能簡介&#34; class=&#34;headerlink&#34; title=&#34;技能簡介&#34;&gt;&lt;/a&gt;技能簡介&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/WSnJ3q1.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;主動技能&#34;&gt;&lt;a href=&#34;#主動技能&#34; class=&#34;headerlink&#34; title=&#34;主動技能&#34;&gt;&lt;/a&gt;主動技能&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;普攻北斗訣：3次範圍形遞增傷害，在技能調息時間較長的情況下，我們可以在技能中穿插普攻來進行輸出 &lt;/li&gt;
+&lt;li&gt;1技能——天璇劍氣&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;天璇劍氣天璇劍氣•坎&lt;/code&gt;：群傷控制技能，定身12米範圍內目標，造成範圍傷害&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;天璇劍氣•離&lt;/code&gt;：傷害減速技能，對12米矩形範圍內目標造成傷害，減速70%&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2技能——天璣劍陣&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;天璣劍陣•兌&lt;/code&gt;：浮空傷害技能，生成劍陣，持續範圍傷害，同時暫停敵方技能cd&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;天璣劍陣••艮&lt;/code&gt;：免控生存技能，生成劍陣，提供免控減傷，充盈狀態提供回復生命值&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3技能——天權劍意&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;天權劍意•震&lt;/code&gt;：突進控制技能，提供遠程範圍傷害和範圍控制技能&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;天權劍意•巽&lt;/code&gt;：擊退增傷技能，對敵方造成擊退效果，給我方提供增傷buff&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4技能——天樞劍道&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;天樞劍道•坤&lt;/code&gt;：多段單體高傷技能，充盈狀態提供封輕功效果&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;天樞劍道•乾&lt;/code&gt;：沉默眩暈技能，充盈狀態提供減療效果&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;加點：&lt;code&gt;加點推薦4 &amp;gt; 1 &amp;gt; 2 = 普攻&amp;gt; 3&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;前期3技能點1級即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/5hEsArI.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;被動技能&#34;&gt;&lt;a href=&#34;#被動技能&#34; class=&#34;headerlink&#34; title=&#34;被動技能&#34;&gt;&lt;/a&gt;被動技能&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;核心機制【&lt;code&gt;道心&lt;/code&gt;】：每隔兩秒种獲得一柄氣劍，八柄氣劍後施展下一招式獲得強化並不佔用調息時間。根據這樣的被動能夠增加我們的戰斗方式，並且根據氣劍的數量來進行技能的銜接搭配，是武當職業核心玩法之一&lt;/li&gt;
+&lt;li&gt;【&lt;code&gt;尋道&lt;/code&gt;】提高自身敏捷和靈巧：前期可以先點5點，後期有多餘的再點&lt;/li&gt;
+&lt;li&gt;【&lt;code&gt;雨墨&lt;/code&gt;】受控時免傷持續1s：有多餘的點數再點&lt;/li&gt;
+&lt;li&gt;【&lt;code&gt;盈擊&lt;/code&gt;】控製成功時給自己增傷：優先點，推薦點滿後再點其他被動&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;技能搭配&#34;&gt;&lt;a href=&#34;#技能搭配&#34; class=&#34;headerlink&#34; title=&#34;技能搭配&#34;&gt;&lt;/a&gt;技能搭配&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/CNSH566.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;坤釋放中不免控，PVP要帶坤最好是搭配艮的免控陣一起使用&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;PVP基礎連招：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;2技能兌 → 4技能乾 → 1技能坎 → 普攻 &lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;起手2技能兌遠距離使目標浮空，浮空後接4技能乾沉默使目標無法使用解控，然後用1技能坎的定身補足控制使乾的傷害打滿，最後用普攻繼續輸出&lt;/p&gt;
+&lt;p&gt;這一連招可以讓對方吃滿整套傷害，如果浮空後沒接上沉默可以使用3技能震拉扯距離，拖技能CD&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;PVE基礎連招：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;將小怪聚集後，釋放3技能小牆，站在牆後可以獲得增傷效果，釋放後接4技能坤使傷害最大化，隨後釋放1技能離與2技能艮提供群體持續傷害&lt;/p&gt;
+&lt;h1 id=&#34;裝備搭配&#34;&gt;&lt;a href=&#34;#裝備搭配&#34; class=&#34;headerlink&#34; title=&#34;裝備搭配&#34;&gt;&lt;/a&gt;裝備搭配&lt;/h1&gt;&lt;p&gt;裝備獲取以家族打造為主，日常活動等有機率掉落裝備。&lt;br&gt;遊戲內&lt;strong&gt;裝備品質&lt;/strong&gt;等級分為&lt;code&gt;白-綠-藍-紫-橙&lt;/code&gt;，每件裝備有6條附加屬性，6條屬性均可通過洗練來更換。&lt;br&gt;&lt;strong&gt;屬性詞條&lt;/strong&gt;根據顏色分為&lt;code&gt;白、綠、藍、紫、橙&lt;/code&gt;。根據屬性分為攻擊詞條與防禦詞條。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;兵魄等級&lt;/strong&gt;同樣也是從低到高分為&lt;code&gt;白、綠、藍、紫、橙&lt;/code&gt;。屬性也分為攻擊與防禦。&lt;/p&gt;
+&lt;p&gt;武當作為控制爆發職業，優先洗練攻擊詞條：&lt;code&gt;暴擊、攻擊、力量、靈巧、暴傷、靈巧&lt;/code&gt;。兵魄也優先&lt;code&gt;攻擊類&lt;/code&gt;屬性。&lt;/p&gt;
+&lt;h1 id=&#34;秘籍推薦&#34;&gt;&lt;a href=&#34;#秘籍推薦&#34; class=&#34;headerlink&#34; title=&#34;秘籍推薦&#34;&gt;&lt;/a&gt;秘籍推薦&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;輸出秘籍：太玄經、紫霞神功、天山六陽、落英神劍&lt;/li&gt;
+&lt;li&gt;防禦秘籍：逍遙遊、洗髓經、凌波微步&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;武當優先選擇&lt;strong&gt;輸出類秘籍&lt;/strong&gt;。秘籍組合優先選擇&lt;code&gt;霸王扛鼎、柔中帶剛和內息澎湃&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ejw04hS.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/YHx3QxL.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;護法推薦&#34;&gt;&lt;a href=&#34;#護法推薦&#34; class=&#34;headerlink&#34; title=&#34;護法推薦&#34;&gt;&lt;/a&gt;護法推薦&lt;/h1&gt;&lt;p&gt;護法大家可以理解為寶寶，護法等級從低到高分為凡-良-奇-絕-臻，分別對應白色、綠色、藍色、紫色、橙色。橙色為最優護法。&lt;/p&gt;
+&lt;p&gt;護法最大上陣數量根據玩家等級提升，最多可以上陣4個。不同的護法擁有不同的護主技能，在選擇護法時主要需要選擇適合本職業的護主技能。&lt;/p&gt;
+&lt;p&gt;武當為土系輸出門派，&lt;code&gt;優先力量、攻擊、暴擊、暴擊傷害、木抗和忽略土抗&lt;/code&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;推薦橙色護法：&lt;code&gt;龍五公子（力量、閃避、暴擊）、小艾/岳銀屏/雨師（暴擊、靈巧、吸血）、楊影楓（閃避、暴擊抵抗、攻擊）&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ucuCkqV.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;紫色護法：&lt;code&gt;推薦殷童（力量、閃避、暴擊）&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/crago1H.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;藍色護法：&lt;code&gt;推薦趙其烈、曜•北狄劍客（敏捷、木抗、忽略土抗）&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/DUga28N.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;綠色護法：&lt;code&gt;推薦北狄劍客（力量、閃避、暴擊）&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Rz8YSBW.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;白色護法：&lt;code&gt;推薦凡•傅選（敏捷、木抗、忽略土抗）&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/jAZOkqI.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

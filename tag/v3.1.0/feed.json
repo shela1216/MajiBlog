@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "LINE遊戲群機器人-兔管家 • All posts by \"v3.1.0\" tag",
+    "description": "遊戲群機器人-兔管家，遊戲攻略集成網站",
+    "home_page_url": "https://blog.majitoo.net",
+    "items": [
+        {
+            "id": "https://blog.majitoo.net/2022/03/04/bot/botUpdate-0304/",
+            "url": "https://blog.majitoo.net/2022/03/04/bot/botUpdate-0304/",
+            "title": "V3.1.0兔管家更新",
+            "date_published": "2022-03-04T06:12:05.000Z",
+            "content_html": "<h2 id=\"3-1-0更新如下\"><a href=\"#3-1-0更新如下\" class=\"headerlink\" title=\"3.1.0更新如下\"></a>3.1.0更新如下</h2><ol>\n<li>優化退群名單管理流程，增加退群名單刪除按鈕</li>\n<li>新增兔管家官網，以後申請流程請參照官網說明: <a href=\"https://majiblog.majitoo.net/2022/03/04/botNote/\">https://majiblog.majitoo.net/2022/03/04/botNote/</a></li>\n</ol>\n",
+            "tags": [
+                "lineBot",
+                "兔管家更新",
+                "V3.1.0"
+            ]
+        }
+    ]
+}

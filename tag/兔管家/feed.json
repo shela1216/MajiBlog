@@ -1,0 +1,20 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "LINE遊戲群機器人-兔管家 • All posts by \"兔管家\" tag",
+    "description": "遊戲群機器人-兔管家，遊戲攻略集成網站",
+    "home_page_url": "https://blog.majitoo.net",
+    "items": [
+        {
+            "id": "https://blog.majitoo.net/2022/03/04/bot/botNote/",
+            "url": "https://blog.majitoo.net/2022/03/04/bot/botNote/",
+            "title": "兔管家使用規定與申請開通",
+            "date_published": "2022-03-04T04:22:35.000Z",
+            "content_html": "<h1 id=\"兔管家是什麼\"><a href=\"#兔管家是什麼\" class=\"headerlink\" title=\"兔管家是什麼?\"></a>兔管家是什麼?</h1><p>兔管家是一個在Line群組使用的免費機器人系統，可以協助群組管理員管理會員名單，設定攻略關鍵字。並支援所列出的遊戲提供相關攻略檢索。</p>\n<p><a href=\"https://lin.ee/Dj8NIuf\"><img height=\"36\" border=\"0\" src=\"https://scdn.line-apps.com/n/line_add_friends/btn/zh-Hant.png\"></a></p>\n<p><img src=\"https://i.imgur.com/PnkzdWh.png\" alt=\"兔管家QRCODE\"></p>\n<h1 id=\"兔管家支援遊戲\"><a href=\"#兔管家支援遊戲\" class=\"headerlink\" title=\"兔管家支援遊戲\"></a>兔管家支援遊戲</h1><ol>\n<li>RO ORIGIN(愛如初見)</li>\n<li>ROX 新世代</li>\n<li>天諭</li>\n<li>三國志戰略版</li>\n<li>二之國</li>\n<li>口袋戰爭</li>\n<li>哈利波特|魔法覺醒</li>\n<li>夢幻新誅仙</li>\n<li>幻塔</li>\n<li>天龍八部2</li>\n<li>劍俠世界3</li>\n</ol>\n<h1 id=\"使用須知\"><a href=\"#使用須知\" class=\"headerlink\" title=\"使用須知\"></a>使用須知</h1><ol>\n<li>個人模式僅能使用攻略查找功能造成不便請見諒</li>\n<li>兔管家首次入群後請輸入<code>設定資料庫</code>完成遊戲資料庫連結才可使用所有群組功能</li>\n<li>兔管家入群後如需切換群組綁定遊戲資料需要將兔管家踢出群重新加入後重新設定(簽到內容、學習內容會清空)</li>\n<li>兔管家請輸入<code>功能</code>開啟功能列表，大部分指令可以使用自行輸入或點選方式執行</li>\n<li>兔管家為免費使用，請友善使用，有遇到問題可以提出，但請耐心等待回復</li>\n<li>兔管家進群後會看到群組內的所有留言，請勿在兔管家加入後在群裡發布各種隱私內容，避免爭議</li>\n<li>如未支援的遊戲需擴充可在底下留言，管理員有空會新增</li>\n</ol>\n",
+            "tags": [
+                "lineBot",
+                "機器人",
+                "兔管家"
+            ]
+        }
+    ]
+}

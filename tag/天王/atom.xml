@@ -1,0 +1,173 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.majitoo.net</id>
+    <title>LINE遊戲群機器人-兔管家 • Posts by &#34;天王&#34; tag</title>
+    <link href="https://blog.majitoo.net" />
+    <updated>2022-05-17T12:22:24.000Z</updated>
+    <category term="lineBot" />
+    <category term="機器人" />
+    <category term="兔管家" />
+    <category term="兔管家更新" />
+    <category term="V3.1.0" />
+    <category term="遊戲攻略" />
+    <category term="夢幻新誅仙" />
+    <category term="仙友" />
+    <category term="陣容" />
+    <category term="探靈" />
+    <category term="異聞" />
+    <category term="奇遇" />
+    <category term="奇緣" />
+    <category term="RO愛如初見" />
+    <category term="新手須知" />
+    <category term="新手" />
+    <category term="YT阿萬" />
+    <category term="屬性相剋" />
+    <category term="體型修正" />
+    <category term="波利手冊" />
+    <category term="波利" />
+    <category term="劍俠世界3" />
+    <category term="每日活動" />
+    <category term="限時活動" />
+    <category term="掛機" />
+    <category term="練功" />
+    <category term="戰力" />
+    <category term="裝備" />
+    <category term="武當" />
+    <category term="門派" />
+    <category term="易水" />
+    <category term="天忍" />
+    <category term="天王" />
+    <category term="白麓" />
+    <category term="升級" />
+    <category term="寵物" />
+    <category term="寵物圖鑑" />
+    <entry>
+        <id>https://blog.majitoo.net/2022/05/17/world3/work5/</id>
+        <title>《劍俠世界3》天王 門派入門</title>
+        <link rel="alternate" href="https://blog.majitoo.net/2022/05/17/world3/work5/"/>
+        <content type="html">&lt;h1 id=&#34;門派定位&#34;&gt;&lt;a href=&#34;#門派定位&#34; class=&#34;headerlink&#34; title=&#34;門派定位&#34;&gt;&lt;/a&gt;門派定位&lt;/h1&gt;&lt;p&gt;天王作為近戰門派，目前是所有門派中身板最硬的角色，他的技能組在擁有一定傷害的同時，同時存在大量的免控、解控狀態，面對敵方的控制效果也能迅速突進至前排進行反制。&lt;/p&gt;
+&lt;p&gt;不僅如此，天王3技能的拉回或破甲效果，配合被動還能打出禁用輕功或眩暈效果，造成一定基礎傷害同時還能兼具不俗的控制。&lt;/p&gt;
+&lt;p&gt;需要注意的是，天王的輸出並不是很高，平時挂機的效率比遠程角色稍低一些。&lt;/p&gt;
+&lt;h1 id=&#34;技能講解&#34;&gt;&lt;a href=&#34;#技能講解&#34; class=&#34;headerlink&#34; title=&#34;技能講解&#34;&gt;&lt;/a&gt;技能講解&lt;/h1&gt;&lt;p&gt;（主動技能數值以15級為例）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1技能：破浪千疊&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;疊浪&lt;/code&gt;】：對8米矩形範圍內目標造成546%範圍傷害。&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;催波&lt;/code&gt;】：對8米範圍內目標造成346%傷害，，範圍內自身與友方獲得自身生命上限8%的護盾，持續5秒（護盾存在時自身免控）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2技能：追星逐月&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;破霄&lt;/code&gt;】：獲得5%生命上限的護盾，並突進至12米範圍內，對6米矩形範圍造成234%傷害和60%減速。（有兩次充能，衝刺時免控）&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;燕回&lt;/code&gt;】：突進至12米範圍內，對6米範圍造成480%傷害與1秒定身，突進後獲得4秒免控和70%減傷，期間免控免沉默。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3技能：三川歸海&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;卷潮&lt;/code&gt;】：拉回8米範圍內目標，造成148%傷害並減速80%，隨後再次對6米範圍目標造成296%傷害和1秒眩暈，期間免控。&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;川江&lt;/code&gt;】：對8米範圍目標造成294%傷害和3秒破甲（增傷15%），期間免控。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4技能：天地一槍&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;龍擊&lt;/code&gt;】：長按對7米扇形目標造成664%傷害與後仰效果，結束或鬆開再次造成352%傷害與1秒擊倒，期間免控。&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;破荒&lt;/code&gt;】：蓄力，對8米扇形範圍目標造成370%傷害，蓄滿可釋放4次，第四段提升至448%與1秒擊倒，期間免控。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;被動技能：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;天王核心機制——【&lt;code&gt;神武&lt;/code&gt;】：仇恨值提高1000%，受擊時獲得5點戰意（3秒一次）。戰意達到120後解控並進入【神武】，持續15秒，期間免控免沉默。&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;百煉&lt;/code&gt;】：簡單粗暴，提升角色體質與力量屬性；&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;堅城&lt;/code&gt;】：受到的傷害減低10%，治療效果提高至1%（滿級為20%、10%）；&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;不屈&lt;/code&gt;】：受到致命傷害時立刻回復一定生命並獲得一個會衰減的護盾，進入【神武】狀態。&lt;/p&gt;
+&lt;h1 id=&#34;加點推薦&#34;&gt;&lt;a href=&#34;#加點推薦&#34; class=&#34;headerlink&#34; title=&#34;加點推薦&#34;&gt;&lt;/a&gt;加點推薦&lt;/h1&gt;&lt;h2 id=&#34;【PVE：打怪為主】&#34;&gt;&lt;a href=&#34;#【PVE：打怪為主】&#34; class=&#34;headerlink&#34; title=&#34;【PVE：打怪為主】&#34;&gt;&lt;/a&gt;【PVE：打怪為主】&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;奇穴配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;1技能：破浪千疊·疊浪（奇穴1）——傷害比奇穴2高&lt;/p&gt;
+&lt;p&gt;2技能：追星逐月·破霄（奇穴1）——被動附帶破甲，有兩次充能&lt;/p&gt;
+&lt;p&gt;3技能：三川歸海·卷潮（奇穴1）——挂機修煉，需要群怪的場合，優先帶捲潮，卷潮可將大範圍內的怪物拉回並打出一個高額傷害&lt;/p&gt;
+&lt;p&gt;三川歸海·川江（奇穴2）——有破甲增傷，打龍五等單體BOSS需要拼傷害的玩法帶川江，可以有效地提升提高隊伍傷害&lt;/p&gt;
+&lt;p&gt;4技能：天地一槍·破荒（奇穴2）——傷害總量高&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Dq0B68Y.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;搭配思路：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;簡單粗暴追求傷害最大化，優先倍率較高的奇穴，控制、防禦性效果不重要；&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;加點順序：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;優先主動技能，升滿再點主動的被動強化技能，接著再補足一些普攻，最後還有多的技能點再點被動【百煉】，補一點力量屬性。&lt;/p&gt;
+&lt;p&gt;天王的技能中，4技能傷害最高，提升的收益較大，是天王的主要輸出技能，建議優先加滿；&lt;/p&gt;
+&lt;p&gt;1技能的傷害僅次於4技能，結合被動還能打出二段招式，進一步加強傷害；&lt;/p&gt;
+&lt;p&gt;2技能的護盾和減傷的作用不會隨技能的升級而提升，而且PVE中也不太需要防禦、控制類技能，之後點2技能的被動延長破甲時間即可；&lt;/p&gt;
+&lt;p&gt;3技能的破甲效果（奇穴2）1級已經達到最大時間，升級只是進一步提升傷害倍率，加點優先度略低於4、1、2技能。&lt;/p&gt;
+&lt;p&gt;加點順序（文字版）：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;4技能＞1技能＞3技能＞普攻＞1技能被動＞2技能被動＞第一個被動【百煉】＞2技能&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;沒有提到的技能，優先級不高，後面有多的點數隨意加就行。&lt;/p&gt;
+&lt;h2 id=&#34;【PVP：團戰優先】&#34;&gt;&lt;a href=&#34;#【PVP：團戰優先】&#34; class=&#34;headerlink&#34; title=&#34;【PVP：團戰優先】&#34;&gt;&lt;/a&gt;【PVP：團戰優先】&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;奇穴配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;1技能：破浪千疊·催波（奇穴2）——團隊護盾，免控免沉默，PVP必帶&lt;/p&gt;
+&lt;p&gt;2技能：追星逐月·燕回（奇穴2）——突進+減速+免控，天王入場技，團戰必帶；小規模戰鬥（如3v3和聯賽）可選擇性帶【破霄】提昇機動性&lt;/p&gt;
+&lt;p&gt;3技能：三川歸海·卷潮（奇穴1）——拉回並眩暈，配合被動禁輕功，適用各類PVP場景&lt;/p&gt;
+&lt;p&gt;4技能：天地一槍·龍擊（奇穴1）——持續控制，配合3技能可打滿高額傷害&lt;/p&gt;
+&lt;p&gt;天地一槍·破荒（奇穴2）——蓄力時有高額護盾，1v1時可以抵擋敵方高傷技能，每段附加移速加成，增強機動性。&lt;/p&gt;
+&lt;p&gt;搭配思路：主動技能以團隊作用為主，被動優先點滿【不屈】。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;加點順序：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;優先4技能，天王的主要輸出技能，奇穴1和奇穴2功能性都十分強大，1v1推薦奇穴2，配合被動蓄力時有高額護盾，建議優先點滿；&lt;/p&gt;
+&lt;p&gt;4技能點滿之後再點滿1技能，進一步加強全隊護盾；&lt;/p&gt;
+&lt;p&gt;3技能拉回+減速+眩暈，配合被動還有禁輕功，升級提升減速效果與傷害，眩暈時間不會增加，故優先度略低於1、4技能；&lt;/p&gt;
+&lt;p&gt;被動技能優先必點【不屈】與【堅城】，提升生存能力與受療效果，進一步強化作為團隊肉盾的功能性；&lt;/p&gt;
+&lt;p&gt;點滿上述技能之後，再接著點主動技能的強化被動，按3＞1、4＞2的順序加點即可。優先3技能被動是為了進一步加強禁輕功的時間，限制對手走位，自身與友方一起造成大量傷害。&lt;/p&gt;
+&lt;p&gt;加點順序（文字版）：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;4技能＞1技能3技能＞第三被動【不屈】＞第二被動【堅城】＞3技能被動＞1技能被動= 4技能被動＞2技能被動&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;沒有提到的技能，優先級不高，後面有多的點數隨意加就行。&lt;/p&gt;
+&lt;h1 id=&#34;常規技能循環&#34;&gt;&lt;a href=&#34;#常規技能循環&#34; class=&#34;headerlink&#34; title=&#34;常規技能循環&#34;&gt;&lt;/a&gt;常規技能循環&lt;/h1&gt;&lt;h2 id=&#34;PVE：&#34;&gt;&lt;a href=&#34;#PVE：&#34; class=&#34;headerlink&#34; title=&#34;PVE：&#34;&gt;&lt;/a&gt;PVE：&lt;/h2&gt;&lt;p&gt;1技能：破浪千疊·疊浪（奇穴1）&lt;/p&gt;
+&lt;p&gt;2技能：追星逐月·破霄（奇穴1）&lt;/p&gt;
+&lt;p&gt;3技能：三川歸海·卷潮（奇穴1）&lt;/p&gt;
+&lt;p&gt;4技能：天地一槍·破荒（奇穴2）&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;連招：3技能→ 2技能→ 1技能→ 4技能→ 2技能→普攻&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;說明：這套連招的目的就是盡量讓破甲全覆蓋，傷害最大化。首先用3技能將怪物拉到面前，打出2技能施加破甲（10級為4秒），鋪墊完成後接著再打出傷害型技能，即1技能與4技能；打完後再使用2技能續上破甲，期間的技能空檔期盡量多打普攻，補傷害。&lt;/p&gt;
+&lt;h2 id=&#34;PVP：&#34;&gt;&lt;a href=&#34;#PVP：&#34; class=&#34;headerlink&#34; title=&#34;PVP：&#34;&gt;&lt;/a&gt;PVP：&lt;/h2&gt;&lt;p&gt;1技能：破浪千疊·催波（奇穴2）&lt;/p&gt;
+&lt;p&gt;2技能：追星逐月·燕回（奇穴2）&lt;/p&gt;
+&lt;p&gt;3技能：三川歸海·卷潮（奇穴1）&lt;/p&gt;
+&lt;p&gt;4技能：天地一槍·龍擊（奇穴1）&lt;/p&gt;
+&lt;p&gt;（1v1時4技能換奇穴2）&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;連招：2技能→ 1技能→ 3技能→ 4技能&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;說明：首先通過2技能獲得高額減傷進場，並打出1秒的定身，後續接1技能補眩暈效果並給自身添加免控免沉默的護盾。再通過3技能的拉回以及禁輕功，配合4技能【龍擊】造成持續控制與高額傷害。&lt;/p&gt;
+&lt;h1 id=&#34;裝備推薦&#34;&gt;&lt;a href=&#34;#裝備推薦&#34; class=&#34;headerlink&#34; title=&#34;裝備推薦&#34;&gt;&lt;/a&gt;裝備推薦&lt;/h1&gt;&lt;h2 id=&#34;詞條洗練：&#34;&gt;&lt;a href=&#34;#詞條洗練：&#34; class=&#34;headerlink&#34; title=&#34;詞條洗練：&#34;&gt;&lt;/a&gt;詞條洗練：&lt;/h2&gt;&lt;p&gt;裝備可以將其分成武器、衣服、防具（左邊四件）、首飾（右邊四件）四個分類來講解。&lt;/p&gt;
+&lt;p&gt;對於天王門派來說，相比於攻擊詞條，&lt;code&gt;防禦詞條優先度更高&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;防禦詞條：體質、生命、抗性、生命回复、暴擊抵抗、反傷；&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;武器：武器比較特殊，擁有的攻擊詞條種類較多，不必強求疊加防禦詞條；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;衣服：衣服只能刷出防禦生存類詞條，防禦詞條中選品質高的洗練就行；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;防具：即帽子、護腕、腰帶和鞋子；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;首飾：即項鍊、戒指、護身符和玉佩；&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;防具和首飾屬性基本相似，以防禦類詞條最優先，攻擊類詞條次之；&lt;/p&gt;
+&lt;h2 id=&#34;兵魄推薦：&#34;&gt;&lt;a href=&#34;#兵魄推薦：&#34; class=&#34;headerlink&#34; title=&#34;兵魄推薦：&#34;&gt;&lt;/a&gt;兵魄推薦：&lt;/h2&gt;&lt;p&gt;目前每個版本能擺攤上架的兵魄都會有變化，一般來說，開啟新等級上限後，上一等級版本的最低級兵魄就不允許擺攤了。&lt;/p&gt;
+&lt;p&gt;以69級版本為例，開啟69等級上限後，白色的一級兵魄就無法通過擺攤獲取了。而且三級兵魄目前獲取難度較大，培養成本極高，所有這裡主要推薦性價比最高的二級兵魄為主。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/lTrwANh.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/4jliWQF.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;護法推薦&#34;&gt;&lt;a href=&#34;#護法推薦&#34; class=&#34;headerlink&#34; title=&#34;護法推薦&#34;&gt;&lt;/a&gt;護法推薦&lt;/h1&gt;&lt;p&gt;目前角色提升到40級可以攜帶四個護法，護法給角色的屬性提升主要取決於他們的護主技能。對於天王來說，與防禦類型的護法較為契合，大家可以根據自己持有的護法進行選擇，優先選擇品質較高的護法。&lt;/p&gt;
+&lt;p&gt;金色（臻）品質：&lt;code&gt;冷啟（火抗、生命、吸血）、岳銀屏（土抗、生命、閃避）、羲閣主（金抗、生命、暴擊抵抗）&lt;/code&gt;；&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/k84ItKU.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;紫色（絕）品質：&lt;code&gt;時俊（火抗、生命、暴擊抵抗）、程浩（全抗、暴擊免傷）、曜大師姐（水抗、生命、暴擊免傷）、初九（土抗、生命、閃避）&lt;/code&gt;；&lt;/p&gt;
+&lt;p&gt;藍色（奇）品質：&lt;code&gt;趙其烈（體質、暴擊免傷）、劇原（火抗、生命）&lt;/code&gt;；&lt;/p&gt;
+&lt;p&gt;綠色（良）品質：&lt;code&gt;北狄劍客（體質）、曜谷齊傑（火抗）&lt;/code&gt;；&lt;/p&gt;
+&lt;p&gt;白色（凡）品質的護法不在考慮範圍內。&lt;/p&gt;
+&lt;p&gt;平民玩家優先養成紫色護法~其中首推時俊，他在紫色護法中擁有少見的三項防禦屬性，特別是火抗，能減少被天忍克製造成的傷害。而金色護法選擇較多，除了上面提及的幾個護法，只要是防禦類型的護法都推薦養成，不過成本會相對較高，當然上限也非常高。&lt;/p&gt;
+&lt;h1 id=&#34;秘籍組合&#34;&gt;&lt;a href=&#34;#秘籍組合&#34; class=&#34;headerlink&#34; title=&#34;秘籍組合&#34;&gt;&lt;/a&gt;秘籍組合&lt;/h1&gt;&lt;p&gt;天王作為需要擁有一定的坦度以及抗性的角色，主秘籍最好選擇防禦、解控類的秘籍。&lt;/p&gt;
+&lt;p&gt;前期首推【&lt;code&gt;逍遙遊&lt;/code&gt;】：被控制時10%概率解控並且獲得護盾。不僅如此，逍遙遊加成的屬性也是防禦類，與天王完美契合。前期可以通過任務直接獲取，不需要獲取成本。&lt;/p&gt;
+&lt;p&gt;除此之外，【&lt;code&gt;洗髓經&lt;/code&gt;】與【&lt;code&gt;凌波微步&lt;/code&gt;】也是比較適合天王的主秘籍。&lt;/p&gt;
+&lt;p&gt;秘籍組合：推薦組合為&lt;code&gt;【金剛護體】、【霸王扛鼎】&lt;/code&gt;，這兩個組合是防禦類型屬性加成，同時主秘籍都為外功，推薦裝備的主秘籍【逍遙遊】、【洗髓經】與【凌波微步】均為外功，契合度非常高。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/JcmCvGN.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="劍俠世界3" />
+        <category term="門派" />
+        <category term="天王" />
+        <updated>2022-05-17T12:22:24.000Z</updated>
+    </entry>
+</feed>

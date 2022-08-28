@@ -1,0 +1,206 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.majitoo.net</id>
+    <title>LINE遊戲群機器人-兔管家 • Posts by &#34;白麓&#34; tag</title>
+    <link href="https://blog.majitoo.net" />
+    <updated>2022-05-17T12:08:45.000Z</updated>
+    <category term="lineBot" />
+    <category term="機器人" />
+    <category term="兔管家" />
+    <category term="兔管家更新" />
+    <category term="V3.1.0" />
+    <category term="遊戲攻略" />
+    <category term="夢幻新誅仙" />
+    <category term="仙友" />
+    <category term="陣容" />
+    <category term="探靈" />
+    <category term="異聞" />
+    <category term="奇遇" />
+    <category term="奇緣" />
+    <category term="RO愛如初見" />
+    <category term="新手須知" />
+    <category term="新手" />
+    <category term="YT阿萬" />
+    <category term="屬性相剋" />
+    <category term="體型修正" />
+    <category term="波利手冊" />
+    <category term="波利" />
+    <category term="劍俠世界3" />
+    <category term="每日活動" />
+    <category term="限時活動" />
+    <category term="掛機" />
+    <category term="練功" />
+    <category term="戰力" />
+    <category term="裝備" />
+    <category term="武當" />
+    <category term="門派" />
+    <category term="易水" />
+    <category term="天忍" />
+    <category term="天王" />
+    <category term="白麓" />
+    <category term="升級" />
+    <category term="寵物" />
+    <category term="寵物圖鑑" />
+    <entry>
+        <id>https://blog.majitoo.net/2022/05/17/world3/work4/</id>
+        <title>《劍俠世界3》白麓 門派入門</title>
+        <link rel="alternate" href="https://blog.majitoo.net/2022/05/17/world3/work4/"/>
+        <content type="html">&lt;h1 id=&#34;門派定位&#34;&gt;&lt;a href=&#34;#門派定位&#34; class=&#34;headerlink&#34; title=&#34;門派定位&#34;&gt;&lt;/a&gt;門派定位&lt;/h1&gt;&lt;p&gt;白麓作為遠程輸出門派，目前是所有門派中輸出最高的角色之一，他的技能組在造成大量傷害的同時，擁有豐富的的控制、位移，面對敵方的各類效果也能迅速後撤併進行反制。&lt;/p&gt;
+&lt;p&gt;需要注意的是，白麓的生存能力很差，在PVP場合要小心被敵方突進到身前。尤其是1v1，如果一波不能帶走就容易被敵方反打，要時刻注意拉扯，保持安全距離。&lt;/p&gt;
+&lt;h1 id=&#34;技能講解&#34;&gt;&lt;a href=&#34;#技能講解&#34; class=&#34;headerlink&#34; title=&#34;技能講解&#34;&gt;&lt;/a&gt;技能講解&lt;/h1&gt;&lt;p&gt;（主動技能數值以15級為例）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1技能：眾裡尋他&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;夜放&lt;/code&gt;】：對14米範圍內射出5支箭矢，每支造成116%傷害；若敵方在自身8米範圍內，施展時後撤8米。&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;千樹&lt;/code&gt;】：對12米範圍內目標造成6米*164%傷害和1秒眩暈，隨後分裂出箭矢對12米範圍目標造成328%傷害。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2技能：盈盈如矢&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;吹雨&lt;/code&gt;】：對14米範圍目標射出箭矢，造成6米*288%傷害並聚攏。&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;魚躍&lt;/code&gt;】：沖向12米內目標，造成410%傷害並眩暈1.5秒；隨後遠離，對20米矩形範圍造成410%傷害與3秒致盲；且後撤期間免控。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3技能：東方闌珊&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;流轉&lt;/code&gt;】：對14米矩形範圍造成370%傷害並眩暈2秒；若目標在自身8米範圍內，施展時後撤8米。&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;聲動&lt;/code&gt;】：對8米範圍目標造成280%傷害和擊退，隨後形成5秒的風域，風域內自身閃避提高70%，期間免控。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4技能：雪柳亂絮&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;墜星&lt;/code&gt;】：蓄力，在15米範圍目標處落下箭雨，造成6米*512%傷害，蓄滿提升為820%傷害並附帶70%減速，蓄力期間可移動並免控。&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;紛擾&lt;/code&gt;】：解控，對8米範圍目標造成9425傷害，期間免控、免傷。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;被動技能：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;白麓核心機制——【&lt;code&gt;風佑&lt;/code&gt;】：每秒獲得6點風息，120點（20秒）後可以施展技能進入【風佑】狀態；獲得15%增傷、20%加速以及最多180%*3次的協擊效果。&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;鷹眼&lt;/code&gt;】：提升角色體質與力量屬性；&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;破星&lt;/code&gt;】：戰鬥中移速提升10%（滿級為20%）；&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;疾羽&lt;/code&gt;】：每觸發一次【風佑】的協擊，降低所有技能CD 0.5秒（滿級為1.5秒）&lt;/p&gt;
+&lt;h1 id=&#34;加點推薦&#34;&gt;&lt;a href=&#34;#加點推薦&#34; class=&#34;headerlink&#34; title=&#34;加點推薦&#34;&gt;&lt;/a&gt;加點推薦&lt;/h1&gt;&lt;h2 id=&#34;【PVE：挂機打怪為主】&#34;&gt;&lt;a href=&#34;#【PVE：挂機打怪為主】&#34; class=&#34;headerlink&#34; title=&#34;【PVE：挂機打怪為主】&#34;&gt;&lt;/a&gt;【PVE：挂機打怪為主】&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;奇穴配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1技能：眾裡尋他·千樹（奇穴2）——兩段傷害，分裂箭傷害高範圍大&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2技能：盈盈如矢·吹雨（奇穴1）——有聚怪效果，怪物聚一起後配合4技能一起輸出&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3技能：東方闌珊·流轉（奇穴1）——傷害比奇穴2高，範圍大&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4技能：雪柳亂絮·墜星（奇穴1）——傷害高射程遠，有短時間脫手&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;搭配思路：簡單粗暴追求傷害最大化，適當放棄一些位移與控制。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;加點順序：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;依舊按照優先點滿主動技能再點其他技能的原則，白麓的技能中，推薦優先加點傷害最高的4技能；&lt;/p&gt;
+&lt;p&gt;其次再加點1、3技能，1技能倍率較高且配合被動還能額外造成一段爆裂傷害，故優先加點；&lt;/p&gt;
+&lt;p&gt;2技能基本只需要提供聚攏效果，提升的傷害不高，前期點1級即可。&lt;/p&gt;
+&lt;p&gt;由於針對PVE環境，再適當選擇普攻以及第一和第三被動&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;加點順序（文字版）：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;4技能＞1技能＞2技能＞1技能被動＞普攻＞被動3【疾羽】＞3技能被動＞被動1【鷹眼】&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;沒有提到的技能，優先級不高，後面有多的點數隨意加就行。（第3個主動技能不推薦加是因為3技能的傷害倍率低，投入的回報低，PVE下不推薦升）&lt;/p&gt;
+&lt;h2 id=&#34;【PVE：打單體木樁】&#34;&gt;&lt;a href=&#34;#【PVE：打單體木樁】&#34; class=&#34;headerlink&#34; title=&#34;【PVE：打單體木樁】&#34;&gt;&lt;/a&gt;【PVE：打單體木樁】&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;奇穴配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1技能：眾裡尋他·千樹（奇穴2）——兩段傷害，分裂箭傷害高範圍大&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2技能：盈盈如矢·吹雨（奇穴1）——有聚怪效果，怪物聚一起後配合4技能一起輸出&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3技能：東方闌珊·流轉（奇穴2）——奇穴2雖然基礎傷害少一些，但是釋放速度快，更流暢，可以追加更多普攻，DPS更高&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4技能：雪柳亂絮·墜星（奇穴1）——傷害高射程遠，有短時間脫手&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;搭配思路：單體打木樁輸出，適用於名俠講武、野外首領等各種需要搶輸出的場合。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;加點順序：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;4技能＞ 1技能＞ 2技能＞ 普攻＞ 第三被動【疾羽】 ＞ 1技能被動＞ 3技能被動＞ 第一被動【鷹眼】&lt;/code&gt; （第3個主動技能不推薦加是因為3技能的傷害倍率低，投入的回報低，PVE下不推薦升）&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;技能循環：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;基本思路為先使用3技獲得持續暴擊爆傷提升效果，隨後打出1技能造成高額單體傷害，隨後施展2技能獲得增傷效果後再銜接蓄滿的4技能造成高額傷害，技能冷卻中穿插普攻&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;3技能 → 1技能 → 2技能 → 4技能蓄滿 → 普攻&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;【PVP：團戰優先】&#34;&gt;&lt;a href=&#34;#【PVP：團戰優先】&#34; class=&#34;headerlink&#34; title=&#34;【PVP：團戰優先】&#34;&gt;&lt;/a&gt;【PVP：團戰優先】&lt;/h2&gt;&lt;p&gt;奇穴配置：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1技能：眾裡尋他·夜放（奇穴1）——箭矢自動追踪，後撤拉開距離，放風箏&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2技能：盈盈如失·魚躍（奇穴2）——眩暈+致盲雙層debuff，打完傷害後撤保持距離。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;大規模團戰可以帶盈盈如矢·吹雨（奇穴1），聚攏敵方目標並減速+禁用輕功，方便隊友集火擊殺。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;3技能：東風闌珊·聲動（奇穴2）——點滿後70%閃避，保命神技&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4技能：雪柳亂絮·紛擾（奇穴2）——解控，造成傷害的同時免控免傷&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;搭配思路：主動技能以放風箏、拉開距離為主，避免對方突進近身的同時造成一定的控制與傷害，確保自身的生存為優先。&lt;/p&gt;
+&lt;p&gt;白麓1技能作為主要輸出技能，配合被動能打出多段傷害，傷害高的同時還自帶後撤，推薦優先加點；&lt;/p&gt;
+&lt;p&gt;其次是2技能，奇穴2兩段410%的高額傷害+致盲效果，第二段還能免控後跳，打完就跑；&lt;/p&gt;
+&lt;p&gt;4技能在這套技能中核心作用是解控、免傷，優先級略低於1、2技能；3技能傷害較低，前期保留1級即可，只需要其功能性的後撤與眩暈。&lt;/p&gt;
+&lt;p&gt;點滿主動後再按照相同的順序加成主動的強化被動，還有多的技能點優先加成被動3和普攻。&lt;/p&gt;
+&lt;p&gt;加點順序（文字版）：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;4技能＞1技能＞3技能＞2技能被動＞1技能被動＞被動3【疾羽】＞被動2【破星】＞4技能被動＞普攻&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;沒有提到的技能，優先級不高，後面有多的點數隨意加就行。&lt;/p&gt;
+&lt;h1 id=&#34;常規技能循環&#34;&gt;&lt;a href=&#34;#常規技能循環&#34; class=&#34;headerlink&#34; title=&#34;常規技能循環&#34;&gt;&lt;/a&gt;常規技能循環&lt;/h1&gt;&lt;h2 id=&#34;PVE：&#34;&gt;&lt;a href=&#34;#PVE：&#34; class=&#34;headerlink&#34; title=&#34;PVE：&#34;&gt;&lt;/a&gt;PVE：&lt;/h2&gt;&lt;p&gt;1技能：眾裡尋他·千樹（奇穴2）&lt;/p&gt;
+&lt;p&gt;2技能：盈盈如矢·吹雨（奇穴1）&lt;/p&gt;
+&lt;p&gt;3技能：東方闌珊·流轉（奇穴1）&lt;/p&gt;
+&lt;p&gt;4技能：雪柳亂絮·墜星（奇穴1）&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;連招：2技能→ 3技能→ 4技能→ 1技能→普攻&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;說明：起手2技能聚怪，接3技能打第一波輸出的同時通過強化被動，加成暴擊、暴擊傷害（4秒），蓄力滿再打出倍率最高的4技能進行第二波輸出；最後再穿插1技能和普攻補滿傷害。&lt;/p&gt;
+&lt;h2 id=&#34;PVP：&#34;&gt;&lt;a href=&#34;#PVP：&#34; class=&#34;headerlink&#34; title=&#34;PVP：&#34;&gt;&lt;/a&gt;PVP：&lt;/h2&gt;&lt;p&gt;1技能：眾裡尋他·夜放（奇穴1）帶斬殺效果，且擊殺後刷新冷啟&lt;/p&gt;
+&lt;p&gt;2技能：盈盈如失·魚躍（奇穴2）大規模團戰可以帶盈盈如矢·吹雨（奇穴1）&lt;/p&gt;
+&lt;p&gt;3技能：東風闌珊·聲動（奇穴2）可以保命&lt;/p&gt;
+&lt;p&gt;4技能：雪柳亂絮·紛擾（奇穴2）大規模團可以帶墜星（奇穴1）蓄力滿放人堆&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;連招：2技能→ 1技能→ 4技能→ 3技能&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;說明：2技能起手，突進到對手面前打完就跑（後跳）並且造成眩暈與致盲，同時獲得強化被動的移速加成和下一招式15%加傷；接著接上主要輸出的1技能，吃2技能的加傷同時後撤；被敵方近身後再打出4技能解控並擊倒敵方，利用控制時間接3技能後撤拉開距離。&lt;/p&gt;
+&lt;p&gt;玩白麓的玩家一定要注意在各個招式之間多穿插普攻，利用普攻3段的位移保持在一個安全的輸出距離。&lt;/p&gt;
+&lt;h1 id=&#34;裝備推薦&#34;&gt;&lt;a href=&#34;#裝備推薦&#34; class=&#34;headerlink&#34; title=&#34;裝備推薦&#34;&gt;&lt;/a&gt;裝備推薦&lt;/h1&gt;&lt;h2 id=&#34;詞條洗練：&#34;&gt;&lt;a href=&#34;#詞條洗練：&#34; class=&#34;headerlink&#34; title=&#34;詞條洗練：&#34;&gt;&lt;/a&gt;詞條洗練：&lt;/h2&gt;&lt;p&gt;裝備可以將其分成武器+首飾（右邊5件），衣服+防具（左邊5件）2個大分類來講解。&lt;/p&gt;
+&lt;p&gt;對於白麓門派來說，攻擊詞條優先度最高。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/MZCXgCe.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;右五件（攻擊詞條為主）&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;左五件（防禦詞條為主，找攻擊詞條）&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;攻擊類詞條：&lt;code&gt;攻擊、力量、暴擊、暴擊傷害、靈巧、吸血、忽略全系抗性&lt;/code&gt;；&lt;/p&gt;
+&lt;p&gt;白麓作為輸出門派，優先選擇攻擊、力量這一類實打實的加成面板的攻擊類詞條；&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;武器：武器比較特殊，擁有攻擊、吸血、忽略全系抗性三個特有詞條，僅在武器部位刷出，優先考慮。其次考慮力量、暴擊、暴擊傷害、靈巧詞條；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;衣服：衣服只能刷出防禦生存類詞條，選品質高的洗練就行；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;防具：即帽子、護腕、腰帶和鞋子；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;首飾：即項鍊、戒指、護身符和玉佩；&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;防具和首飾屬性基本相似，以攻擊類詞條為洗練目標，優先攻擊、力量這種直接加成到面板的屬性。&lt;/p&gt;
+&lt;h1 id=&#34;護法搭配&#34;&gt;&lt;a href=&#34;#護法搭配&#34; class=&#34;headerlink&#34; title=&#34;護法搭配&#34;&gt;&lt;/a&gt;護法搭配&lt;/h1&gt;&lt;p&gt;護法共分為5個品質，分別為：臻、絕、奇、良、凡。其中包含10個臻品護法、10個絕品護法、10個奇品護法、10個良品護法和9個凡品護法，共49個護法。&lt;/p&gt;
+&lt;p&gt;護法最大上陣數量會隨著玩家等級提高而提高，起始位1個，最大位4個。其中護法品質越高護主技能提升的屬性也越高，護法戰力越高，幫助也就越大。白麓為木系，輸出為主，需要增加攻擊、暴擊、暴擊傷害 不同的護法擁有不同的護主技能，越高品質的護法相同護主技能加成越高，在選擇護法培養時主要需要注意的就是需要挑選適合本職業的護主技能。&lt;/p&gt;
+&lt;p&gt;推薦臻品護法：&lt;code&gt;白秋琳、小艾/月銀屏/雨師、龍五公子、楊影楓&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8vxMNQx.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;推薦絕品護法：&lt;code&gt;石俊、程浩、殷童&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/y2WWNza.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;推薦奇品護法：&lt;code&gt;悟真大師、曜•大胃王、劇原&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/wjwCTv1.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;秘籍選擇&#34;&gt;&lt;a href=&#34;#秘籍選擇&#34; class=&#34;headerlink&#34; title=&#34;秘籍選擇&#34;&gt;&lt;/a&gt;秘籍選擇&lt;/h1&gt;&lt;p&gt;因為白麓主要以遠程輸出為主，推薦屬性位攻擊、暴擊，所以主要激活組合屬性為：&lt;code&gt;外-外-內、外-內-內&lt;/code&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;輸出秘籍：&lt;code&gt;太玄經、紫霞神功、天山六陽、落英神劍 &lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;防禦秘籍：&lt;code&gt;逍遙遊、洗髓經、凌波微步&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/FVsShmb.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/0CUGBFu.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;秘籍組合：推薦組合為&lt;code&gt;【柔中帶剛】、【霸王扛鼎】、【內息澎湃】&lt;/code&gt;，這三個組合是攻擊類型屬性加成，同時前兩個主秘籍都為外功，推薦裝備主秘籍【太玄經】，後者推薦【天山六陽掌】作為主秘籍。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="劍俠世界3" />
+        <category term="門派" />
+        <category term="白麓" />
+        <updated>2022-05-17T12:08:45.000Z</updated>
+    </entry>
+</feed>

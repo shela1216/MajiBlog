@@ -1,0 +1,1032 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.majitoo.net</id>
+    <title>LINE遊戲群機器人-兔管家 • Posts by &#34;劍俠世界3&#34; tag</title>
+    <link href="https://blog.majitoo.net" />
+    <updated>2022-05-20T08:16:59.000Z</updated>
+    <category term="lineBot" />
+    <category term="機器人" />
+    <category term="兔管家" />
+    <category term="兔管家更新" />
+    <category term="V3.1.0" />
+    <category term="遊戲攻略" />
+    <category term="夢幻新誅仙" />
+    <category term="仙友" />
+    <category term="陣容" />
+    <category term="探靈" />
+    <category term="異聞" />
+    <category term="奇遇" />
+    <category term="奇緣" />
+    <category term="RO愛如初見" />
+    <category term="新手須知" />
+    <category term="新手" />
+    <category term="YT阿萬" />
+    <category term="屬性相剋" />
+    <category term="體型修正" />
+    <category term="波利手冊" />
+    <category term="波利" />
+    <category term="劍俠世界3" />
+    <category term="每日活動" />
+    <category term="限時活動" />
+    <category term="掛機" />
+    <category term="練功" />
+    <category term="戰力" />
+    <category term="裝備" />
+    <category term="武當" />
+    <category term="門派" />
+    <category term="易水" />
+    <category term="天忍" />
+    <category term="天王" />
+    <category term="白麓" />
+    <category term="升級" />
+    <category term="寵物" />
+    <category term="寵物圖鑑" />
+    <entry>
+        <id>https://blog.majitoo.net/2022/05/20/world3/cloth/</id>
+        <title>《劍俠世界3》裝備提升攻略</title>
+        <link rel="alternate" href="https://blog.majitoo.net/2022/05/20/world3/cloth/"/>
+        <content type="html">&lt;h1 id=&#34;一、裝備獲取&#34;&gt;&lt;a href=&#34;#一、裝備獲取&#34; class=&#34;headerlink&#34; title=&#34;一、裝備獲取&#34;&gt;&lt;/a&gt;一、裝備獲取&lt;/h1&gt;&lt;h2 id=&#34;1、主線獲取&#34;&gt;&lt;a href=&#34;#1、主線獲取&#34; class=&#34;headerlink&#34; title=&#34;1、主線獲取&#34;&gt;&lt;/a&gt;1、主線獲取&lt;/h2&gt;&lt;p&gt;前期主線會給一些裝備，因為等級升得很快，之前的裝備馬上就會換下來，建議不用追求屬性極致的裝備。&lt;/p&gt;
+&lt;h2 id=&#34;2、日常獲取&#34;&gt;&lt;a href=&#34;#2、日常獲取&#34; class=&#34;headerlink&#34; title=&#34;2、日常獲取&#34;&gt;&lt;/a&gt;2、日常獲取&lt;/h2&gt;&lt;p&gt;以下日常活動會獲得相應品階的裝備，更有概率會獲得卓越品質的裝備。&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;部位&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;獲取途徑&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;衣服&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;名俠講武(拍賣)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;帽子&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;夢華錄&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;護腕&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;官府通緝&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;腰帶&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;英豪擂台&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;鞋子&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;武道爭鋒&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;武器&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;三才首領(拍賣)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;項鍊&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;千機樓&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;戒指&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;宋金戰場&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;護身符&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;野外菁英&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;玉珮&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;商會任務&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h2 id=&#34;3、家族打造&#34;&gt;&lt;a href=&#34;#3、家族打造&#34; class=&#34;headerlink&#34; title=&#34;3、家族打造&#34;&gt;&lt;/a&gt;3、家族打造&lt;/h2&gt;&lt;p&gt;每天在家族金庫進行捐獻、參加各種活動所獲得的家族貢獻，在家族界面的“防具坊”“兵甲坊”“首飾坊”可以進行所需裝備的打造。&lt;br&gt;小提示：家族領地左側有3個NPC，與之對話可以獲得打造秘訣，會提高打造出卓越裝備的概率哦！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/t5n7DGl.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;4、野外挂機&#34;&gt;&lt;a href=&#34;#4、野外挂機&#34; class=&#34;headerlink&#34; title=&#34;4、野外挂機&#34;&gt;&lt;/a&gt;4、野外挂機&lt;/h2&gt;&lt;p&gt;野外挂機除了經驗獲取，也會概率掉落裝備，而挂機的裝備掉落以及掉落的品質，跟祝福效果有關，挂機時如果有祝福石記得使用哦！點擊左上角狀態欄或修煉界面都可以看到自己的祝福剩餘時間。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Q3HjS8d.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;二、裝備洗練&#34;&gt;&lt;a href=&#34;#二、裝備洗練&#34; class=&#34;headerlink&#34; title=&#34;二、裝備洗練&#34;&gt;&lt;/a&gt;二、裝備洗練&lt;/h1&gt;&lt;p&gt;當獲得當前品階最好品質——也就是卓越裝備之後，再獲得同部位的裝備是不是就沒用了呢？當然不是，我們可以把多出來的裝備拿來洗練。&lt;/p&gt;
+&lt;p&gt;當你有多的裝備，上面有比你當前裝備上數值更好、更適合你的屬性，都可以用來進行裝備洗練。洗練過後你當前裝備的屬性和戰力都會提高，而不能再進行洗練的“藥渣”裝備，就可以一鍵出售了。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/tdVIA4Z.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;三、裝備強化&#34;&gt;&lt;a href=&#34;#三、裝備強化&#34; class=&#34;headerlink&#34; title=&#34;三、裝備強化&#34;&gt;&lt;/a&gt;三、裝備強化&lt;/h1&gt;&lt;p&gt;裝備強化首先要有強化石，也就是玄晶，除了直接商城購買之外，夢華錄、千機樓、龍泉祕境、官服通緝這些“一條龍”的組隊日常都有掉落，以及野外精英、白虎堂這種家族活動，也會有產出。玄晶目前分為綠玄晶和藍玄晶，3個綠玄晶可以合成1個藍玄晶。裝備強化有強化評級，每當所有裝備強化到5的相同倍數會提升等級，所以盡量平均的來強化。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/tBp56Cu.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;強化裝備會提升該部位相對應的屬性，提升的屬性如下：&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th align=&#34;left&#34;&gt;強化部位&lt;/th&gt;
+&lt;th align=&#34;left&#34;&gt;提升屬性&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;衣服&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;生命、金系抗性&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;帽子&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;爆擊&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;護腕&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;命中&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;腰帶&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;爆擊抵抗&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;鞋子&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;閃避、移動速度&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;武器&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;攻擊&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;項鍊&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;生命、水系抗性&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;戒指&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;生命、木系抗性&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;護身符&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;生命、土系抗性&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td align=&#34;left&#34;&gt;玉珮&lt;/td&gt;
+&lt;td align=&#34;left&#34;&gt;生命、火系抗性&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;&lt;/table&gt;
+&lt;h1 id=&#34;四、裝備鑲嵌&#34;&gt;&lt;a href=&#34;#四、裝備鑲嵌&#34; class=&#34;headerlink&#34; title=&#34;四、裝備鑲嵌&#34;&gt;&lt;/a&gt;四、裝備鑲嵌&lt;/h1&gt;&lt;p&gt;裝備鑲嵌所用到的兵魄，主要來源有3處：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;真武試煉、龍泉祕境、夢華錄：地奇寶箱，可直接開啟，概率獲得1級隨機兵魄；&lt;/li&gt;
+&lt;li&gt;野外精英、武道爭鋒、英豪擂台、門派會武、尋龍探寶：天璣寶箱和黃金寶箱，需要消耗鑰匙開啟，其中天璣寶箱是概率獲得2級隨機兵魄；&lt;/li&gt;
+&lt;li&gt;領土爭奪戰及三才首領的拍賣：3級隨機兵魄。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/AWGlt7v.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;兵魄的鑲嵌，前期追求戰力可以“有就鑲，不留空”，優先鑲嵌最高等級的兵魄，當前裝備可以裝備更高等級的兵魄情況下，能熔鑄的兵魄就熔鑄再鑲嵌。到了後期追求屬性、有多的兵魄的時候，再根據自己需要的屬性來進行鑲嵌。具體不同門派需要鑲嵌什麼屬性的兵魄，可以參考對應的門派攻略。&lt;/p&gt;
+</content>
+        <category term="劍俠世界3" />
+        <category term="戰力" />
+        <category term="裝備" />
+        <updated>2022-05-20T08:16:59.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.majitoo.net/2022/05/18/world3/afk/</id>
+        <title>《劍俠世界3》掛機點位置介紹</title>
+        <link rel="alternate" href="https://blog.majitoo.net/2022/05/18/world3/afk/"/>
+        <content type="html">&lt;h1 id=&#34;【掛機點】&#34;&gt;&lt;a href=&#34;#【掛機點】&#34; class=&#34;headerlink&#34; title=&#34;【掛機點】&#34;&gt;&lt;/a&gt;【掛機點】&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/qEhT42p.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;我們等級達到一定階段後，主線任務將會暫停，後續升級就需要我們通過日常活動，副本關卡來獲得，另外還可以通過在野外修煉;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;野外修煉地點需要考慮周圍的怪物以及分布情況，以及需要預判精英怪的刷新地點，掛機的地方最好是有篝火，其中篝火越多，我們刷的經驗也就會越多;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;刷圖等級推薦：明月谷(25級)，虎丘劍池(35級)，秋山盟(40級)，映月湖(45級)，青頂太池宮(50-55級)，攔江營(55級)，採石南灘(50-55級)，脆螺北港(60級)，採石北灘(65-70級)。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/j5cYc6u.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/6ZnIiHv.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="劍俠世界3" />
+        <category term="掛機" />
+        <category term="練功" />
+        <updated>2022-05-18T00:46:30.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.majitoo.net/2022/05/18/world3/activity/</id>
+        <title>《劍俠世界3》每日必玩活動推薦</title>
+        <link rel="alternate" href="https://blog.majitoo.net/2022/05/18/world3/activity/"/>
+        <content type="html">&lt;h1 id=&#34;一-個人活動&#34;&gt;&lt;a href=&#34;#一-個人活動&#34; class=&#34;headerlink&#34; title=&#34;一.個人活動&#34;&gt;&lt;/a&gt;一.個人活動&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;宋金戰場（推薦指數：&lt;strong&gt;☆☆☆☆☆&lt;/strong&gt;）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;宋金戰場參與獲得的功勳值可以每週在商店兌換遺失的章節5個（藏經閣升級材料唯一獲取方式）、百曉天書·斷片1個（提升1點技能點，最多5點）這兩個都是只有參與宋金戰場才可以獲取的，宋金戰場每週功勳上限20000，每天四場只要不到週上限就可以一直獲取，所以可以根據自己的時間每天參與也可以安排到一天多次獲取。不推薦在最後一天肝出來，可能來不及！&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;活動時間：&lt;code&gt;11:50、16:30、20:30、22:00&lt;/code&gt; 每次持續20分鐘&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動獎勵：&lt;code&gt;經驗值，戒指，強化道具，鑄魂石，功勳，赤兔丹&lt;/code&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動技巧：宋金的獲勝條件是結算時己方士氣值高，士氣值獲取來源於佔點、開啟物資箱、突發事件佔點以及擊破元帥，戰場期間最重要的是及時佔點和首領擊破，而不是無腦輸出打架，切忌所有人抱團打架。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/THSBReG.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;千機樓（推薦指數：&lt;strong&gt;☆☆☆☆☆&lt;/strong&gt;）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;千機樓產出海心玉可以用於兌換秘籍碎片，玩家可以自己匹配參與。時間充裕的話也可以自己創建隊伍進行【千機樓】+【龍泉祕境】+【夢華錄】+【官府通緝】一條龍日常（隊長有額外獎勵）&lt;/p&gt;
+&lt;p&gt;千機樓還可能出產縹緲閣憑證，獲得後可以前往紅袖招開啟神秘商店，神秘商店內可以以極低價格購買大量秘籍碎片。憑證產出後有有效期，一定要記得及時使用。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;活動時間：&lt;code&gt;全天&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動獎勵：&lt;code&gt;經驗值，戒指，強化道具，鑄魂石，功勳，赤兔丹&lt;/code&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動技巧：千機閣一次僅可以挑戰一層，到達當前版本最高層後重複挑戰最高層，2層後最後一關boss會有隨機buff刷新增加血量和防禦，及時吃buff&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;建議隊伍配置：&lt;strong&gt;1易水+1白麓+2個其他輸出門派&lt;/strong&gt;。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/F1HZf7v.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;門派會武（推薦指數：&lt;strong&gt;☆☆☆&lt;/strong&gt;）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;可以獲取秘籍殘頁，可以用於提升秘籍等級。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;活動時間：&lt;code&gt;週五21:00&lt;/code&gt;，&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動獎勵：&lt;code&gt;幫貢、秘籍殘頁、秘籍經驗但、天璣寶箱、絕塵套挂件寶箱&lt;/code&gt;等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動技巧：預選賽期間不要怕死，擊殺和協助擊殺都會獲取積分，積分越高排名越高，門派積分前16進入1v1。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/a0sVyPX.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;二-組隊活動&#34;&gt;&lt;a href=&#34;#二-組隊活動&#34; class=&#34;headerlink&#34; title=&#34;二.組隊活動&#34;&gt;&lt;/a&gt;二.組隊活動&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;野外精英（推薦指數：&lt;strong&gt;☆☆☆&lt;/strong&gt;）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;野外首領每天有4次獎勵獲取機會，一天有4個時間段可以參與，活動寶箱可以獲取高級兵魄。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;活動時間：&lt;code&gt;每日10：00,14：00,18：00,22：30&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動獎勵：&lt;code&gt;幫貢、橙品護符、天璣寶箱&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動技巧：活動獎勵以小隊形式發放，提前組好隊友，每個首領傷害前五獎勵更好，到達首領後根據人數判斷小隊傷害是否可能在前五，如果沒有機會及時更換首領進行輸出。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/yLg1hBa.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;武道爭鋒（推薦指數：&lt;strong&gt;☆☆☆&lt;/strong&gt;）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;可以獲取秘籍殘頁，提升秘籍等級唯一材料&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;活動時間：&lt;code&gt;週三、週日21:00，&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動獎勵：&lt;code&gt;幫貢、秘籍殘頁、橙品鞋子、天璣寶箱、絕塵套馬鞍寶箱&lt;/code&gt;等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動技巧：3v3提前組隊，最好尋找固定隊友磨合輸出形式。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;三-家族活動&#34;&gt;&lt;a href=&#34;#三-家族活動&#34; class=&#34;headerlink&#34; title=&#34;三. 家族活動&#34;&gt;&lt;/a&gt;三. 家族活動&lt;/h1&gt;&lt;p&gt;家族活動是建議都參與的，因為可以獲取家族貢獻，而家族貢獻是幫會橙品裝備打造的唯一來源。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;名俠講武（推薦指數：&lt;strong&gt;☆☆☆☆☆&lt;/strong&gt;）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;名俠講武后會有家族拍賣，參與活動即可參與拍賣並獲得拍賣分紅。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;活動時間：&lt;code&gt;每日12:30、19:30&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動獎勵：&lt;code&gt;頭銜令牌、橙品衣服、護法-龍五公子、煉化圖譜&lt;/code&gt;等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動技巧：有條件手動輸出及時規避首領傷害，站在首領側面更容易生存。沒時間可以開自動挂機。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/HGdEsOC.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;三才首領（推薦指數：&lt;strong&gt;☆☆☆☆☆&lt;/strong&gt;）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;活動結束後有拍賣和拍賣分紅（推薦指數：&lt;strong&gt;☆☆☆☆&lt;/strong&gt;）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;活動時間：&lt;code&gt;每日21:30&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動獎勵：&lt;code&gt;頭銜令牌、橙品衣服、護法-龍五公子、煉化圖譜&lt;/code&gt;等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動技巧：提前在家族組隊，聽從家族指揮及時進行首領輸出傷害&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/TNyag3F.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;領土爭奪戰（推薦指數：&lt;strong&gt;☆☆☆☆&lt;/strong&gt;）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;活動結束後有拍賣和拍賣分紅。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;活動時間：&lt;code&gt;每週二、週六21:00&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動獎勵：&lt;code&gt;頭銜令牌、高級兵魄、赤兔丹、隨機馬嚼寶箱&lt;/code&gt;等&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;活動技巧：提前在家族組隊，聽從家族指揮&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/eXyWuCo.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/KLq7JaZ.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/YBbFk1e.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="劍俠世界3" />
+        <category term="每日活動" />
+        <category term="限時活動" />
+        <updated>2022-05-18T00:33:50.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.majitoo.net/2022/05/17/world3/worldLevel/</id>
+        <title>《劍俠世界3》新手一日升級攻略</title>
+        <link rel="alternate" href="https://blog.majitoo.net/2022/05/17/world3/worldLevel/"/>
+        <content type="html">&lt;h1 id=&#34;主線&#34;&gt;&lt;a href=&#34;#主線&#34; class=&#34;headerlink&#34; title=&#34;主線&#34;&gt;&lt;/a&gt;主線&lt;/h1&gt;&lt;p&gt;進遊戲後是主線劇情任務，做完以後角色會來到龍泉村，我就不贅述，以免劇透玩家自行體驗就好。新手根據右邊的任務線做下去，做主線任務出新手村以後大概10級，這時候就可以進家族，先隨便找個家族加進去，可以完成支線任務，獲取獎勵和經驗，然後繼續做主線任務。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/lijxACg.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;角色主線任務做完會卡等級，在17級升不了18級，這時候去打教學副本&lt;code&gt;【龍泉祕境】&lt;/code&gt;。&lt;/p&gt;
+&lt;h1 id=&#34;教學副本&#34;&gt;&lt;a href=&#34;#教學副本&#34; class=&#34;headerlink&#34; title=&#34;教學副本&#34;&gt;&lt;/a&gt;教學副本&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/pmSFZwL.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;點擊進去，系統會給你匹配幾個隊友，隨便點一個申請進去，等15秒就會進入副本。打完副本以後就會升級到19級，副本內容我也不劇透，自行體驗。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;打完副本以後不要出本，有1分鐘左右可以烤火，掛會兒機有經驗獎勵。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;出副本後角色會達到18級然後繼續進行主線任務，到了20級會觸發新功能：&lt;code&gt;師徒系統。&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/tnXD4ny.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;師徒系統&#34;&gt;&lt;a href=&#34;#師徒系統&#34; class=&#34;headerlink&#34; title=&#34;師徒系統&#34;&gt;&lt;/a&gt;師徒系統&lt;/h1&gt;&lt;p&gt;師徒系統中可以給角色尋找有收徒需求的其他玩家，玩家可以自行尋找合適的師傅進行拜師。&lt;/p&gt;
+&lt;p&gt;拜師後每天可以師徒傳功，每周可以做師徒任務，完成出師任務可以進行匯報(獲取大量經驗，師徒每天1次，還可以進行家族傳功每天2-4次不等)。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/T4k83U4.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/e1ZHXc3.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;繼續進行主線任務後會來到22級，這時候暫時沒有主線任務可以繼續做，支線裡面進行教學副本活動，&lt;code&gt;【官府通緝】【真武試煉】和【夢華錄】&lt;/code&gt;。&lt;/p&gt;
+&lt;h1 id=&#34;副本活動&#34;&gt;&lt;a href=&#34;#副本活動&#34; class=&#34;headerlink&#34; title=&#34;副本活動&#34;&gt;&lt;/a&gt;副本活動&lt;/h1&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;【&lt;code&gt;官府通緝&lt;/code&gt;】：組人去打野外精英怪，組不到人可以通過護法支援出來一個人打。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;【&lt;code&gt;真武試煉&lt;/code&gt;】：單人副本，次數不限，但是打過一層才有獎勵，每層有等級要求，進去手動&amp;#x2F;自動戰鬥都行。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;【&lt;code&gt;夢華錄&lt;/code&gt;】：多人副本每天能打2次，重複上面龍泉祕境的操作。找個陪練進去打。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;打完以後，會升到24級。在角色右上角活動界面也會開啟遊戲新功能：修煉模式。&lt;/p&gt;
+&lt;h1 id=&#34;修練模式&#34;&gt;&lt;a href=&#34;#修練模式&#34; class=&#34;headerlink&#34; title=&#34;修練模式&#34;&gt;&lt;/a&gt;修練模式&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/NB3SJcG.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;修煉模式簡單來說就是野外刷怪，給10倍經驗，如果刷了精英怪，會出篝火，烤火的話有額外的大量經驗。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;p&gt;上面剩餘修煉經驗表示了角色今天還能通過野外修煉獲取多少十倍經驗。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;修煉丹可以增加修煉時長和額外修煉經驗。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;喝酒狀態能對烤火經驗進行加成，一瓶10%有效三分鐘，隊里四個人都喝的話會獲得40%的額外經驗。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;把第一天的野外修煉做完的話，第一天能升到27-28級左右，這時候就沒日常任務可以做了，還能獲取的經驗就是定時活動，如【宋金戰場】，【野外精英】，【湯泉沐浴】，【每日答題】這4個活動了。&lt;/p&gt;
+&lt;h1 id=&#34;定時活動&#34;&gt;&lt;a href=&#34;#定時活動&#34; class=&#34;headerlink&#34; title=&#34;定時活動&#34;&gt;&lt;/a&gt;定時活動&lt;/h1&gt;&lt;p&gt;【&lt;code&gt;宋金戰場&lt;/code&gt;】和【&lt;code&gt;野外精英&lt;/code&gt;】都是定時開放的活動，參與活動可以獲取少量經驗以及其他道具獎勵。&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;湯泉沐浴&lt;/code&gt;】：19:45在家族領地右側開啟，活動期間到家族領地右側泡澡可以獲取大量經驗值獎勵。&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;每日答題&lt;/code&gt;】：在活動界面可以找到入口，點擊參與可以傳送到主城區NPC【雲崢】參與活動，進行一些遊戲基礎知識的問答。獎勵一筆可觀的經驗值和銀兩。&lt;/p&gt;
+&lt;p&gt;以上基本上就是第一天的升級流程。&lt;/p&gt;
+</content>
+        <category term="新手" />
+        <category term="劍俠世界3" />
+        <category term="升級" />
+        <updated>2022-05-17T13:15:40.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.majitoo.net/2022/05/17/world3/newplay/</id>
+        <title>《劍俠世界3》新手戰鬥力提升攻略</title>
+        <link rel="alternate" href="https://blog.majitoo.net/2022/05/17/world3/newplay/"/>
+        <content type="html">&lt;p&gt;***零充玩家，最喜歡就是研究，在遊戲中，花最少的錢，達到最好的效果，爭取不花錢，要花錢也要花在刀刃上。最近在遊戲裡看到最多的就是，明明我也充錢了，為什麼戰鬥力還是被榜首的那些拉開這麼大的差距，這裡就不得不說一點，樓主所在的幫會現在的幫主是區服戰鬥力榜首，故此也向他取了取經。&lt;/p&gt;
+&lt;p&gt;接下來我將會從遊戲的各個系統層面向大家剖析提升戰鬥力的技巧。&lt;/p&gt;
+&lt;h1 id=&#34;主線任務&#34;&gt;&lt;a href=&#34;#主線任務&#34; class=&#34;headerlink&#34; title=&#34;主線任務&#34;&gt;&lt;/a&gt;主線任務&lt;/h1&gt;&lt;p&gt;首先不斷地完成主線任務以及組隊完成日常任務肯定是必要的，等級是驅動遊戲進程的核心，升級過程中一個經常會被大家忽略的就是傳功系統 &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Yd2zbMu.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;可以看到在活動列表中傳功的次數共有被傳以及傳功2次（吃每天可吃一個家族傳功丸增加各一次）傳功與被傳功皆可獲得不少的經驗值。但是不少的人還忽略了四次傳功的機會那就是師徒系統中的兩位師父與兩位徒弟的傳功機會（ps師徒傳功可增加少量戰鬥力）&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/9AHuaAK.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;裝備系統&#34;&gt;&lt;a href=&#34;#裝備系統&#34; class=&#34;headerlink&#34; title=&#34;裝備系統&#34;&gt;&lt;/a&gt;裝備系統&lt;/h1&gt;&lt;p&gt;相信不少朋友和我一樣，因為家境貧寒，玩遊戲總是摳摳搜搜的，想著升級路上裝備更新快速，就沒有要去升級裝備屬性了，但是劍俠世界3的裝備系統是繼承模式，也就是你對於一件裝備的加強以及鑲嵌，在你更換裝備後會全部繼承在新的裝備上，所以大家可以放心大膽的給我吧！一鍵強化猛敲！！！ &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/j6G47jy.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;這對於你做日常以及升級路上都會省力不少，也減輕了背包的壓力。每次更換裝備後可以看到可洗練的選項，一定要把好的詞條，加（覆蓋）在新的裝備上。這也是大家容易忽略的地方。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/nuYfsVX.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;橙色品級的裝備來源於&lt;code&gt;（大型家族日常活動爆出、家族三坊機率開出、遊戲商城）&lt;/code&gt;個人比較推薦前期就還是能嫖就飄，遊戲等級大家都還在升級，指不定滿級後才有更好的裝備，建議後期再著力於裝備的養成。&lt;/p&gt;
+&lt;h1 id=&#34;技能係統&#34;&gt;&lt;a href=&#34;#技能係統&#34; class=&#34;headerlink&#34; title=&#34;技能係統&#34;&gt;&lt;/a&gt;技能係統&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/bFmHgGD.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;相信大家再升級之中不少人在獲得技能點後，都是推薦升級技能的，但是我可以很明確的告訴你，這個推薦升級是真的有點弱智，我極不推薦！因為他會浪費一些技能點在平A上面，這就導致前期我們的技能以及被動都點不滿，是非常頭痛的一件事，&lt;code&gt;建議有技能點先把主動技能和被動拉滿之後慢慢點平A&lt;/code&gt;&lt;/p&gt;
+&lt;h1 id=&#34;秘籍系統&#34;&gt;&lt;a href=&#34;#秘籍系統&#34; class=&#34;headerlink&#34; title=&#34;秘籍系統&#34;&gt;&lt;/a&gt;秘籍系統&lt;/h1&gt;&lt;p&gt;秘籍系統簡單的說就是秘籍越多提升就越大，根據不同門派的不同玩法，可以攜帶不同的秘籍，以下是我對秘籍類型的分離標註。 &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/AmhVZzs.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;值得注意的一點就是秘籍之間也擁有羈絆，不同的羈絆帶來的屬性提升也是不同，大家更具自己門派的定位以及玩法，選擇最適合的羈絆，就會帶來質的提升。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ffgnJK4.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;護法系統&#34;&gt;&lt;a href=&#34;#護法系統&#34; class=&#34;headerlink&#34; title=&#34;護法系統&#34;&gt;&lt;/a&gt;護法系統&lt;/h1&gt;&lt;p&gt;接下來到了護法系統重中之重，這是就有人提出疑問了？抽卡不是有錢人的活動嘛？你這不是騙我充錢，這里大家就忽略了護法系統中一個很重要的功能就是護法羈絆！ &lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/UOXs4Ll.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;護法羈絆：也就是不同的護法之間會產生不同的羈絆以及屬性加成，注意！！！這個加成並不是你要上陣這個羈絆裡的護法才會獲取，而是只要激活之後你就會擁有，所以說完全可以用銀幣去十連抽，多湊一些羈絆，然後簡單的養一養也可以獲得不俗的戰鬥力加成，這些羈絆大多都是一些綠藍紫品質的護法，所以說非常的好湊！！！當然願意去花錢的玩家，完全可以元寶十連抽沖一下至臻品質護法！&lt;/p&gt;
+&lt;p&gt;然後還有一個會忽略的點就是頭銜系統前期的提升只是不需要用到令牌的所以能點就趕緊點了！&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/5wSvkck.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;在後期需要購買令牌才能提升頭銜，頭銜的獲取來自於遊戲家族大型活動的產出，以及玩家之間的擺攤，如果活動中沒有獲得，極度建議！！！把前期任務中存下李的元寶用在購買令牌，升級頭銜。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/LwvE0eB.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="新手" />
+        <category term="劍俠世界3" />
+        <category term="戰力" />
+        <updated>2022-05-17T13:05:26.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.majitoo.net/2022/05/17/world3/work5/</id>
+        <title>《劍俠世界3》天王 門派入門</title>
+        <link rel="alternate" href="https://blog.majitoo.net/2022/05/17/world3/work5/"/>
+        <content type="html">&lt;h1 id=&#34;門派定位&#34;&gt;&lt;a href=&#34;#門派定位&#34; class=&#34;headerlink&#34; title=&#34;門派定位&#34;&gt;&lt;/a&gt;門派定位&lt;/h1&gt;&lt;p&gt;天王作為近戰門派，目前是所有門派中身板最硬的角色，他的技能組在擁有一定傷害的同時，同時存在大量的免控、解控狀態，面對敵方的控制效果也能迅速突進至前排進行反制。&lt;/p&gt;
+&lt;p&gt;不僅如此，天王3技能的拉回或破甲效果，配合被動還能打出禁用輕功或眩暈效果，造成一定基礎傷害同時還能兼具不俗的控制。&lt;/p&gt;
+&lt;p&gt;需要注意的是，天王的輸出並不是很高，平時挂機的效率比遠程角色稍低一些。&lt;/p&gt;
+&lt;h1 id=&#34;技能講解&#34;&gt;&lt;a href=&#34;#技能講解&#34; class=&#34;headerlink&#34; title=&#34;技能講解&#34;&gt;&lt;/a&gt;技能講解&lt;/h1&gt;&lt;p&gt;（主動技能數值以15級為例）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1技能：破浪千疊&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;疊浪&lt;/code&gt;】：對8米矩形範圍內目標造成546%範圍傷害。&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;催波&lt;/code&gt;】：對8米範圍內目標造成346%傷害，，範圍內自身與友方獲得自身生命上限8%的護盾，持續5秒（護盾存在時自身免控）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2技能：追星逐月&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;破霄&lt;/code&gt;】：獲得5%生命上限的護盾，並突進至12米範圍內，對6米矩形範圍造成234%傷害和60%減速。（有兩次充能，衝刺時免控）&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;燕回&lt;/code&gt;】：突進至12米範圍內，對6米範圍造成480%傷害與1秒定身，突進後獲得4秒免控和70%減傷，期間免控免沉默。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3技能：三川歸海&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;卷潮&lt;/code&gt;】：拉回8米範圍內目標，造成148%傷害並減速80%，隨後再次對6米範圍目標造成296%傷害和1秒眩暈，期間免控。&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;川江&lt;/code&gt;】：對8米範圍目標造成294%傷害和3秒破甲（增傷15%），期間免控。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4技能：天地一槍&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;龍擊&lt;/code&gt;】：長按對7米扇形目標造成664%傷害與後仰效果，結束或鬆開再次造成352%傷害與1秒擊倒，期間免控。&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;破荒&lt;/code&gt;】：蓄力，對8米扇形範圍目標造成370%傷害，蓄滿可釋放4次，第四段提升至448%與1秒擊倒，期間免控。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;被動技能：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;天王核心機制——【&lt;code&gt;神武&lt;/code&gt;】：仇恨值提高1000%，受擊時獲得5點戰意（3秒一次）。戰意達到120後解控並進入【神武】，持續15秒，期間免控免沉默。&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;百煉&lt;/code&gt;】：簡單粗暴，提升角色體質與力量屬性；&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;堅城&lt;/code&gt;】：受到的傷害減低10%，治療效果提高至1%（滿級為20%、10%）；&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;不屈&lt;/code&gt;】：受到致命傷害時立刻回復一定生命並獲得一個會衰減的護盾，進入【神武】狀態。&lt;/p&gt;
+&lt;h1 id=&#34;加點推薦&#34;&gt;&lt;a href=&#34;#加點推薦&#34; class=&#34;headerlink&#34; title=&#34;加點推薦&#34;&gt;&lt;/a&gt;加點推薦&lt;/h1&gt;&lt;h2 id=&#34;【PVE：打怪為主】&#34;&gt;&lt;a href=&#34;#【PVE：打怪為主】&#34; class=&#34;headerlink&#34; title=&#34;【PVE：打怪為主】&#34;&gt;&lt;/a&gt;【PVE：打怪為主】&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;奇穴配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;1技能：破浪千疊·疊浪（奇穴1）——傷害比奇穴2高&lt;/p&gt;
+&lt;p&gt;2技能：追星逐月·破霄（奇穴1）——被動附帶破甲，有兩次充能&lt;/p&gt;
+&lt;p&gt;3技能：三川歸海·卷潮（奇穴1）——挂機修煉，需要群怪的場合，優先帶捲潮，卷潮可將大範圍內的怪物拉回並打出一個高額傷害&lt;/p&gt;
+&lt;p&gt;三川歸海·川江（奇穴2）——有破甲增傷，打龍五等單體BOSS需要拼傷害的玩法帶川江，可以有效地提升提高隊伍傷害&lt;/p&gt;
+&lt;p&gt;4技能：天地一槍·破荒（奇穴2）——傷害總量高&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Dq0B68Y.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;搭配思路：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;簡單粗暴追求傷害最大化，優先倍率較高的奇穴，控制、防禦性效果不重要；&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;加點順序：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;優先主動技能，升滿再點主動的被動強化技能，接著再補足一些普攻，最後還有多的技能點再點被動【百煉】，補一點力量屬性。&lt;/p&gt;
+&lt;p&gt;天王的技能中，4技能傷害最高，提升的收益較大，是天王的主要輸出技能，建議優先加滿；&lt;/p&gt;
+&lt;p&gt;1技能的傷害僅次於4技能，結合被動還能打出二段招式，進一步加強傷害；&lt;/p&gt;
+&lt;p&gt;2技能的護盾和減傷的作用不會隨技能的升級而提升，而且PVE中也不太需要防禦、控制類技能，之後點2技能的被動延長破甲時間即可；&lt;/p&gt;
+&lt;p&gt;3技能的破甲效果（奇穴2）1級已經達到最大時間，升級只是進一步提升傷害倍率，加點優先度略低於4、1、2技能。&lt;/p&gt;
+&lt;p&gt;加點順序（文字版）：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;4技能＞1技能＞3技能＞普攻＞1技能被動＞2技能被動＞第一個被動【百煉】＞2技能&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;沒有提到的技能，優先級不高，後面有多的點數隨意加就行。&lt;/p&gt;
+&lt;h2 id=&#34;【PVP：團戰優先】&#34;&gt;&lt;a href=&#34;#【PVP：團戰優先】&#34; class=&#34;headerlink&#34; title=&#34;【PVP：團戰優先】&#34;&gt;&lt;/a&gt;【PVP：團戰優先】&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;奇穴配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;1技能：破浪千疊·催波（奇穴2）——團隊護盾，免控免沉默，PVP必帶&lt;/p&gt;
+&lt;p&gt;2技能：追星逐月·燕回（奇穴2）——突進+減速+免控，天王入場技，團戰必帶；小規模戰鬥（如3v3和聯賽）可選擇性帶【破霄】提昇機動性&lt;/p&gt;
+&lt;p&gt;3技能：三川歸海·卷潮（奇穴1）——拉回並眩暈，配合被動禁輕功，適用各類PVP場景&lt;/p&gt;
+&lt;p&gt;4技能：天地一槍·龍擊（奇穴1）——持續控制，配合3技能可打滿高額傷害&lt;/p&gt;
+&lt;p&gt;天地一槍·破荒（奇穴2）——蓄力時有高額護盾，1v1時可以抵擋敵方高傷技能，每段附加移速加成，增強機動性。&lt;/p&gt;
+&lt;p&gt;搭配思路：主動技能以團隊作用為主，被動優先點滿【不屈】。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;加點順序：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;優先4技能，天王的主要輸出技能，奇穴1和奇穴2功能性都十分強大，1v1推薦奇穴2，配合被動蓄力時有高額護盾，建議優先點滿；&lt;/p&gt;
+&lt;p&gt;4技能點滿之後再點滿1技能，進一步加強全隊護盾；&lt;/p&gt;
+&lt;p&gt;3技能拉回+減速+眩暈，配合被動還有禁輕功，升級提升減速效果與傷害，眩暈時間不會增加，故優先度略低於1、4技能；&lt;/p&gt;
+&lt;p&gt;被動技能優先必點【不屈】與【堅城】，提升生存能力與受療效果，進一步強化作為團隊肉盾的功能性；&lt;/p&gt;
+&lt;p&gt;點滿上述技能之後，再接著點主動技能的強化被動，按3＞1、4＞2的順序加點即可。優先3技能被動是為了進一步加強禁輕功的時間，限制對手走位，自身與友方一起造成大量傷害。&lt;/p&gt;
+&lt;p&gt;加點順序（文字版）：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;4技能＞1技能3技能＞第三被動【不屈】＞第二被動【堅城】＞3技能被動＞1技能被動= 4技能被動＞2技能被動&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;沒有提到的技能，優先級不高，後面有多的點數隨意加就行。&lt;/p&gt;
+&lt;h1 id=&#34;常規技能循環&#34;&gt;&lt;a href=&#34;#常規技能循環&#34; class=&#34;headerlink&#34; title=&#34;常規技能循環&#34;&gt;&lt;/a&gt;常規技能循環&lt;/h1&gt;&lt;h2 id=&#34;PVE：&#34;&gt;&lt;a href=&#34;#PVE：&#34; class=&#34;headerlink&#34; title=&#34;PVE：&#34;&gt;&lt;/a&gt;PVE：&lt;/h2&gt;&lt;p&gt;1技能：破浪千疊·疊浪（奇穴1）&lt;/p&gt;
+&lt;p&gt;2技能：追星逐月·破霄（奇穴1）&lt;/p&gt;
+&lt;p&gt;3技能：三川歸海·卷潮（奇穴1）&lt;/p&gt;
+&lt;p&gt;4技能：天地一槍·破荒（奇穴2）&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;連招：3技能→ 2技能→ 1技能→ 4技能→ 2技能→普攻&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;說明：這套連招的目的就是盡量讓破甲全覆蓋，傷害最大化。首先用3技能將怪物拉到面前，打出2技能施加破甲（10級為4秒），鋪墊完成後接著再打出傷害型技能，即1技能與4技能；打完後再使用2技能續上破甲，期間的技能空檔期盡量多打普攻，補傷害。&lt;/p&gt;
+&lt;h2 id=&#34;PVP：&#34;&gt;&lt;a href=&#34;#PVP：&#34; class=&#34;headerlink&#34; title=&#34;PVP：&#34;&gt;&lt;/a&gt;PVP：&lt;/h2&gt;&lt;p&gt;1技能：破浪千疊·催波（奇穴2）&lt;/p&gt;
+&lt;p&gt;2技能：追星逐月·燕回（奇穴2）&lt;/p&gt;
+&lt;p&gt;3技能：三川歸海·卷潮（奇穴1）&lt;/p&gt;
+&lt;p&gt;4技能：天地一槍·龍擊（奇穴1）&lt;/p&gt;
+&lt;p&gt;（1v1時4技能換奇穴2）&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;連招：2技能→ 1技能→ 3技能→ 4技能&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;說明：首先通過2技能獲得高額減傷進場，並打出1秒的定身，後續接1技能補眩暈效果並給自身添加免控免沉默的護盾。再通過3技能的拉回以及禁輕功，配合4技能【龍擊】造成持續控制與高額傷害。&lt;/p&gt;
+&lt;h1 id=&#34;裝備推薦&#34;&gt;&lt;a href=&#34;#裝備推薦&#34; class=&#34;headerlink&#34; title=&#34;裝備推薦&#34;&gt;&lt;/a&gt;裝備推薦&lt;/h1&gt;&lt;h2 id=&#34;詞條洗練：&#34;&gt;&lt;a href=&#34;#詞條洗練：&#34; class=&#34;headerlink&#34; title=&#34;詞條洗練：&#34;&gt;&lt;/a&gt;詞條洗練：&lt;/h2&gt;&lt;p&gt;裝備可以將其分成武器、衣服、防具（左邊四件）、首飾（右邊四件）四個分類來講解。&lt;/p&gt;
+&lt;p&gt;對於天王門派來說，相比於攻擊詞條，&lt;code&gt;防禦詞條優先度更高&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;防禦詞條：體質、生命、抗性、生命回复、暴擊抵抗、反傷；&lt;/code&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;武器：武器比較特殊，擁有的攻擊詞條種類較多，不必強求疊加防禦詞條；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;衣服：衣服只能刷出防禦生存類詞條，防禦詞條中選品質高的洗練就行；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;防具：即帽子、護腕、腰帶和鞋子；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;首飾：即項鍊、戒指、護身符和玉佩；&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;防具和首飾屬性基本相似，以防禦類詞條最優先，攻擊類詞條次之；&lt;/p&gt;
+&lt;h2 id=&#34;兵魄推薦：&#34;&gt;&lt;a href=&#34;#兵魄推薦：&#34; class=&#34;headerlink&#34; title=&#34;兵魄推薦：&#34;&gt;&lt;/a&gt;兵魄推薦：&lt;/h2&gt;&lt;p&gt;目前每個版本能擺攤上架的兵魄都會有變化，一般來說，開啟新等級上限後，上一等級版本的最低級兵魄就不允許擺攤了。&lt;/p&gt;
+&lt;p&gt;以69級版本為例，開啟69等級上限後，白色的一級兵魄就無法通過擺攤獲取了。而且三級兵魄目前獲取難度較大，培養成本極高，所有這裡主要推薦性價比最高的二級兵魄為主。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/lTrwANh.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/4jliWQF.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;護法推薦&#34;&gt;&lt;a href=&#34;#護法推薦&#34; class=&#34;headerlink&#34; title=&#34;護法推薦&#34;&gt;&lt;/a&gt;護法推薦&lt;/h1&gt;&lt;p&gt;目前角色提升到40級可以攜帶四個護法，護法給角色的屬性提升主要取決於他們的護主技能。對於天王來說，與防禦類型的護法較為契合，大家可以根據自己持有的護法進行選擇，優先選擇品質較高的護法。&lt;/p&gt;
+&lt;p&gt;金色（臻）品質：&lt;code&gt;冷啟（火抗、生命、吸血）、岳銀屏（土抗、生命、閃避）、羲閣主（金抗、生命、暴擊抵抗）&lt;/code&gt;；&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/k84ItKU.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;紫色（絕）品質：&lt;code&gt;時俊（火抗、生命、暴擊抵抗）、程浩（全抗、暴擊免傷）、曜大師姐（水抗、生命、暴擊免傷）、初九（土抗、生命、閃避）&lt;/code&gt;；&lt;/p&gt;
+&lt;p&gt;藍色（奇）品質：&lt;code&gt;趙其烈（體質、暴擊免傷）、劇原（火抗、生命）&lt;/code&gt;；&lt;/p&gt;
+&lt;p&gt;綠色（良）品質：&lt;code&gt;北狄劍客（體質）、曜谷齊傑（火抗）&lt;/code&gt;；&lt;/p&gt;
+&lt;p&gt;白色（凡）品質的護法不在考慮範圍內。&lt;/p&gt;
+&lt;p&gt;平民玩家優先養成紫色護法~其中首推時俊，他在紫色護法中擁有少見的三項防禦屬性，特別是火抗，能減少被天忍克製造成的傷害。而金色護法選擇較多，除了上面提及的幾個護法，只要是防禦類型的護法都推薦養成，不過成本會相對較高，當然上限也非常高。&lt;/p&gt;
+&lt;h1 id=&#34;秘籍組合&#34;&gt;&lt;a href=&#34;#秘籍組合&#34; class=&#34;headerlink&#34; title=&#34;秘籍組合&#34;&gt;&lt;/a&gt;秘籍組合&lt;/h1&gt;&lt;p&gt;天王作為需要擁有一定的坦度以及抗性的角色，主秘籍最好選擇防禦、解控類的秘籍。&lt;/p&gt;
+&lt;p&gt;前期首推【&lt;code&gt;逍遙遊&lt;/code&gt;】：被控制時10%概率解控並且獲得護盾。不僅如此，逍遙遊加成的屬性也是防禦類，與天王完美契合。前期可以通過任務直接獲取，不需要獲取成本。&lt;/p&gt;
+&lt;p&gt;除此之外，【&lt;code&gt;洗髓經&lt;/code&gt;】與【&lt;code&gt;凌波微步&lt;/code&gt;】也是比較適合天王的主秘籍。&lt;/p&gt;
+&lt;p&gt;秘籍組合：推薦組合為&lt;code&gt;【金剛護體】、【霸王扛鼎】&lt;/code&gt;，這兩個組合是防禦類型屬性加成，同時主秘籍都為外功，推薦裝備的主秘籍【逍遙遊】、【洗髓經】與【凌波微步】均為外功，契合度非常高。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/JcmCvGN.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="劍俠世界3" />
+        <category term="門派" />
+        <category term="天王" />
+        <updated>2022-05-17T12:22:24.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.majitoo.net/2022/05/17/world3/work4/</id>
+        <title>《劍俠世界3》白麓 門派入門</title>
+        <link rel="alternate" href="https://blog.majitoo.net/2022/05/17/world3/work4/"/>
+        <content type="html">&lt;h1 id=&#34;門派定位&#34;&gt;&lt;a href=&#34;#門派定位&#34; class=&#34;headerlink&#34; title=&#34;門派定位&#34;&gt;&lt;/a&gt;門派定位&lt;/h1&gt;&lt;p&gt;白麓作為遠程輸出門派，目前是所有門派中輸出最高的角色之一，他的技能組在造成大量傷害的同時，擁有豐富的的控制、位移，面對敵方的各類效果也能迅速後撤併進行反制。&lt;/p&gt;
+&lt;p&gt;需要注意的是，白麓的生存能力很差，在PVP場合要小心被敵方突進到身前。尤其是1v1，如果一波不能帶走就容易被敵方反打，要時刻注意拉扯，保持安全距離。&lt;/p&gt;
+&lt;h1 id=&#34;技能講解&#34;&gt;&lt;a href=&#34;#技能講解&#34; class=&#34;headerlink&#34; title=&#34;技能講解&#34;&gt;&lt;/a&gt;技能講解&lt;/h1&gt;&lt;p&gt;（主動技能數值以15級為例）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1技能：眾裡尋他&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;夜放&lt;/code&gt;】：對14米範圍內射出5支箭矢，每支造成116%傷害；若敵方在自身8米範圍內，施展時後撤8米。&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;千樹&lt;/code&gt;】：對12米範圍內目標造成6米*164%傷害和1秒眩暈，隨後分裂出箭矢對12米範圍目標造成328%傷害。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2技能：盈盈如矢&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;吹雨&lt;/code&gt;】：對14米範圍目標射出箭矢，造成6米*288%傷害並聚攏。&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;魚躍&lt;/code&gt;】：沖向12米內目標，造成410%傷害並眩暈1.5秒；隨後遠離，對20米矩形範圍造成410%傷害與3秒致盲；且後撤期間免控。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3技能：東方闌珊&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;流轉&lt;/code&gt;】：對14米矩形範圍造成370%傷害並眩暈2秒；若目標在自身8米範圍內，施展時後撤8米。&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;聲動&lt;/code&gt;】：對8米範圍目標造成280%傷害和擊退，隨後形成5秒的風域，風域內自身閃避提高70%，期間免控。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4技能：雪柳亂絮&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;墜星&lt;/code&gt;】：蓄力，在15米範圍目標處落下箭雨，造成6米*512%傷害，蓄滿提升為820%傷害並附帶70%減速，蓄力期間可移動並免控。&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;紛擾&lt;/code&gt;】：解控，對8米範圍目標造成9425傷害，期間免控、免傷。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;被動技能：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;白麓核心機制——【&lt;code&gt;風佑&lt;/code&gt;】：每秒獲得6點風息，120點（20秒）後可以施展技能進入【風佑】狀態；獲得15%增傷、20%加速以及最多180%*3次的協擊效果。&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;鷹眼&lt;/code&gt;】：提升角色體質與力量屬性；&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;破星&lt;/code&gt;】：戰鬥中移速提升10%（滿級為20%）；&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;疾羽&lt;/code&gt;】：每觸發一次【風佑】的協擊，降低所有技能CD 0.5秒（滿級為1.5秒）&lt;/p&gt;
+&lt;h1 id=&#34;加點推薦&#34;&gt;&lt;a href=&#34;#加點推薦&#34; class=&#34;headerlink&#34; title=&#34;加點推薦&#34;&gt;&lt;/a&gt;加點推薦&lt;/h1&gt;&lt;h2 id=&#34;【PVE：挂機打怪為主】&#34;&gt;&lt;a href=&#34;#【PVE：挂機打怪為主】&#34; class=&#34;headerlink&#34; title=&#34;【PVE：挂機打怪為主】&#34;&gt;&lt;/a&gt;【PVE：挂機打怪為主】&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;奇穴配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1技能：眾裡尋他·千樹（奇穴2）——兩段傷害，分裂箭傷害高範圍大&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2技能：盈盈如矢·吹雨（奇穴1）——有聚怪效果，怪物聚一起後配合4技能一起輸出&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3技能：東方闌珊·流轉（奇穴1）——傷害比奇穴2高，範圍大&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4技能：雪柳亂絮·墜星（奇穴1）——傷害高射程遠，有短時間脫手&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;搭配思路：簡單粗暴追求傷害最大化，適當放棄一些位移與控制。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;加點順序：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;依舊按照優先點滿主動技能再點其他技能的原則，白麓的技能中，推薦優先加點傷害最高的4技能；&lt;/p&gt;
+&lt;p&gt;其次再加點1、3技能，1技能倍率較高且配合被動還能額外造成一段爆裂傷害，故優先加點；&lt;/p&gt;
+&lt;p&gt;2技能基本只需要提供聚攏效果，提升的傷害不高，前期點1級即可。&lt;/p&gt;
+&lt;p&gt;由於針對PVE環境，再適當選擇普攻以及第一和第三被動&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;加點順序（文字版）：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;4技能＞1技能＞2技能＞1技能被動＞普攻＞被動3【疾羽】＞3技能被動＞被動1【鷹眼】&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;沒有提到的技能，優先級不高，後面有多的點數隨意加就行。（第3個主動技能不推薦加是因為3技能的傷害倍率低，投入的回報低，PVE下不推薦升）&lt;/p&gt;
+&lt;h2 id=&#34;【PVE：打單體木樁】&#34;&gt;&lt;a href=&#34;#【PVE：打單體木樁】&#34; class=&#34;headerlink&#34; title=&#34;【PVE：打單體木樁】&#34;&gt;&lt;/a&gt;【PVE：打單體木樁】&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;奇穴配置：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1技能：眾裡尋他·千樹（奇穴2）——兩段傷害，分裂箭傷害高範圍大&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2技能：盈盈如矢·吹雨（奇穴1）——有聚怪效果，怪物聚一起後配合4技能一起輸出&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3技能：東方闌珊·流轉（奇穴2）——奇穴2雖然基礎傷害少一些，但是釋放速度快，更流暢，可以追加更多普攻，DPS更高&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4技能：雪柳亂絮·墜星（奇穴1）——傷害高射程遠，有短時間脫手&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;搭配思路：單體打木樁輸出，適用於名俠講武、野外首領等各種需要搶輸出的場合。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;加點順序：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;4技能＞ 1技能＞ 2技能＞ 普攻＞ 第三被動【疾羽】 ＞ 1技能被動＞ 3技能被動＞ 第一被動【鷹眼】&lt;/code&gt; （第3個主動技能不推薦加是因為3技能的傷害倍率低，投入的回報低，PVE下不推薦升）&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;技能循環：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;基本思路為先使用3技獲得持續暴擊爆傷提升效果，隨後打出1技能造成高額單體傷害，隨後施展2技能獲得增傷效果後再銜接蓄滿的4技能造成高額傷害，技能冷卻中穿插普攻&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;3技能 → 1技能 → 2技能 → 4技能蓄滿 → 普攻&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;【PVP：團戰優先】&#34;&gt;&lt;a href=&#34;#【PVP：團戰優先】&#34; class=&#34;headerlink&#34; title=&#34;【PVP：團戰優先】&#34;&gt;&lt;/a&gt;【PVP：團戰優先】&lt;/h2&gt;&lt;p&gt;奇穴配置：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1技能：眾裡尋他·夜放（奇穴1）——箭矢自動追踪，後撤拉開距離，放風箏&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2技能：盈盈如失·魚躍（奇穴2）——眩暈+致盲雙層debuff，打完傷害後撤保持距離。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;大規模團戰可以帶盈盈如矢·吹雨（奇穴1），聚攏敵方目標並減速+禁用輕功，方便隊友集火擊殺。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;3技能：東風闌珊·聲動（奇穴2）——點滿後70%閃避，保命神技&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4技能：雪柳亂絮·紛擾（奇穴2）——解控，造成傷害的同時免控免傷&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;搭配思路：主動技能以放風箏、拉開距離為主，避免對方突進近身的同時造成一定的控制與傷害，確保自身的生存為優先。&lt;/p&gt;
+&lt;p&gt;白麓1技能作為主要輸出技能，配合被動能打出多段傷害，傷害高的同時還自帶後撤，推薦優先加點；&lt;/p&gt;
+&lt;p&gt;其次是2技能，奇穴2兩段410%的高額傷害+致盲效果，第二段還能免控後跳，打完就跑；&lt;/p&gt;
+&lt;p&gt;4技能在這套技能中核心作用是解控、免傷，優先級略低於1、2技能；3技能傷害較低，前期保留1級即可，只需要其功能性的後撤與眩暈。&lt;/p&gt;
+&lt;p&gt;點滿主動後再按照相同的順序加成主動的強化被動，還有多的技能點優先加成被動3和普攻。&lt;/p&gt;
+&lt;p&gt;加點順序（文字版）：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;4技能＞1技能＞3技能＞2技能被動＞1技能被動＞被動3【疾羽】＞被動2【破星】＞4技能被動＞普攻&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;沒有提到的技能，優先級不高，後面有多的點數隨意加就行。&lt;/p&gt;
+&lt;h1 id=&#34;常規技能循環&#34;&gt;&lt;a href=&#34;#常規技能循環&#34; class=&#34;headerlink&#34; title=&#34;常規技能循環&#34;&gt;&lt;/a&gt;常規技能循環&lt;/h1&gt;&lt;h2 id=&#34;PVE：&#34;&gt;&lt;a href=&#34;#PVE：&#34; class=&#34;headerlink&#34; title=&#34;PVE：&#34;&gt;&lt;/a&gt;PVE：&lt;/h2&gt;&lt;p&gt;1技能：眾裡尋他·千樹（奇穴2）&lt;/p&gt;
+&lt;p&gt;2技能：盈盈如矢·吹雨（奇穴1）&lt;/p&gt;
+&lt;p&gt;3技能：東方闌珊·流轉（奇穴1）&lt;/p&gt;
+&lt;p&gt;4技能：雪柳亂絮·墜星（奇穴1）&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;連招：2技能→ 3技能→ 4技能→ 1技能→普攻&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;說明：起手2技能聚怪，接3技能打第一波輸出的同時通過強化被動，加成暴擊、暴擊傷害（4秒），蓄力滿再打出倍率最高的4技能進行第二波輸出；最後再穿插1技能和普攻補滿傷害。&lt;/p&gt;
+&lt;h2 id=&#34;PVP：&#34;&gt;&lt;a href=&#34;#PVP：&#34; class=&#34;headerlink&#34; title=&#34;PVP：&#34;&gt;&lt;/a&gt;PVP：&lt;/h2&gt;&lt;p&gt;1技能：眾裡尋他·夜放（奇穴1）帶斬殺效果，且擊殺後刷新冷啟&lt;/p&gt;
+&lt;p&gt;2技能：盈盈如失·魚躍（奇穴2）大規模團戰可以帶盈盈如矢·吹雨（奇穴1）&lt;/p&gt;
+&lt;p&gt;3技能：東風闌珊·聲動（奇穴2）可以保命&lt;/p&gt;
+&lt;p&gt;4技能：雪柳亂絮·紛擾（奇穴2）大規模團可以帶墜星（奇穴1）蓄力滿放人堆&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;連招：2技能→ 1技能→ 4技能→ 3技能&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;說明：2技能起手，突進到對手面前打完就跑（後跳）並且造成眩暈與致盲，同時獲得強化被動的移速加成和下一招式15%加傷；接著接上主要輸出的1技能，吃2技能的加傷同時後撤；被敵方近身後再打出4技能解控並擊倒敵方，利用控制時間接3技能後撤拉開距離。&lt;/p&gt;
+&lt;p&gt;玩白麓的玩家一定要注意在各個招式之間多穿插普攻，利用普攻3段的位移保持在一個安全的輸出距離。&lt;/p&gt;
+&lt;h1 id=&#34;裝備推薦&#34;&gt;&lt;a href=&#34;#裝備推薦&#34; class=&#34;headerlink&#34; title=&#34;裝備推薦&#34;&gt;&lt;/a&gt;裝備推薦&lt;/h1&gt;&lt;h2 id=&#34;詞條洗練：&#34;&gt;&lt;a href=&#34;#詞條洗練：&#34; class=&#34;headerlink&#34; title=&#34;詞條洗練：&#34;&gt;&lt;/a&gt;詞條洗練：&lt;/h2&gt;&lt;p&gt;裝備可以將其分成武器+首飾（右邊5件），衣服+防具（左邊5件）2個大分類來講解。&lt;/p&gt;
+&lt;p&gt;對於白麓門派來說，攻擊詞條優先度最高。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/MZCXgCe.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;右五件（攻擊詞條為主）&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;左五件（防禦詞條為主，找攻擊詞條）&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;攻擊類詞條：&lt;code&gt;攻擊、力量、暴擊、暴擊傷害、靈巧、吸血、忽略全系抗性&lt;/code&gt;；&lt;/p&gt;
+&lt;p&gt;白麓作為輸出門派，優先選擇攻擊、力量這一類實打實的加成面板的攻擊類詞條；&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;武器：武器比較特殊，擁有攻擊、吸血、忽略全系抗性三個特有詞條，僅在武器部位刷出，優先考慮。其次考慮力量、暴擊、暴擊傷害、靈巧詞條；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;衣服：衣服只能刷出防禦生存類詞條，選品質高的洗練就行；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;防具：即帽子、護腕、腰帶和鞋子；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;首飾：即項鍊、戒指、護身符和玉佩；&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;防具和首飾屬性基本相似，以攻擊類詞條為洗練目標，優先攻擊、力量這種直接加成到面板的屬性。&lt;/p&gt;
+&lt;h1 id=&#34;護法搭配&#34;&gt;&lt;a href=&#34;#護法搭配&#34; class=&#34;headerlink&#34; title=&#34;護法搭配&#34;&gt;&lt;/a&gt;護法搭配&lt;/h1&gt;&lt;p&gt;護法共分為5個品質，分別為：臻、絕、奇、良、凡。其中包含10個臻品護法、10個絕品護法、10個奇品護法、10個良品護法和9個凡品護法，共49個護法。&lt;/p&gt;
+&lt;p&gt;護法最大上陣數量會隨著玩家等級提高而提高，起始位1個，最大位4個。其中護法品質越高護主技能提升的屬性也越高，護法戰力越高，幫助也就越大。白麓為木系，輸出為主，需要增加攻擊、暴擊、暴擊傷害 不同的護法擁有不同的護主技能，越高品質的護法相同護主技能加成越高，在選擇護法培養時主要需要注意的就是需要挑選適合本職業的護主技能。&lt;/p&gt;
+&lt;p&gt;推薦臻品護法：&lt;code&gt;白秋琳、小艾/月銀屏/雨師、龍五公子、楊影楓&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/8vxMNQx.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;推薦絕品護法：&lt;code&gt;石俊、程浩、殷童&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/y2WWNza.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;推薦奇品護法：&lt;code&gt;悟真大師、曜•大胃王、劇原&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/wjwCTv1.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;秘籍選擇&#34;&gt;&lt;a href=&#34;#秘籍選擇&#34; class=&#34;headerlink&#34; title=&#34;秘籍選擇&#34;&gt;&lt;/a&gt;秘籍選擇&lt;/h1&gt;&lt;p&gt;因為白麓主要以遠程輸出為主，推薦屬性位攻擊、暴擊，所以主要激活組合屬性為：&lt;code&gt;外-外-內、外-內-內&lt;/code&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;輸出秘籍：&lt;code&gt;太玄經、紫霞神功、天山六陽、落英神劍 &lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;防禦秘籍：&lt;code&gt;逍遙遊、洗髓經、凌波微步&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/FVsShmb.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/0CUGBFu.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;秘籍組合：推薦組合為&lt;code&gt;【柔中帶剛】、【霸王扛鼎】、【內息澎湃】&lt;/code&gt;，這三個組合是攻擊類型屬性加成，同時前兩個主秘籍都為外功，推薦裝備主秘籍【太玄經】，後者推薦【天山六陽掌】作為主秘籍。&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+        <category term="劍俠世界3" />
+        <category term="門派" />
+        <category term="白麓" />
+        <updated>2022-05-17T12:08:45.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.majitoo.net/2022/05/17/world3/work3/</id>
+        <title>《劍俠世界3》天忍 門派入門</title>
+        <link rel="alternate" href="https://blog.majitoo.net/2022/05/17/world3/work3/"/>
+        <content type="html">&lt;h1 id=&#34;門派定位&#34;&gt;&lt;a href=&#34;#門派定位&#34; class=&#34;headerlink&#34; title=&#34;門派定位&#34;&gt;&lt;/a&gt;門派定位&lt;/h1&gt;&lt;p&gt;天忍作為近戰輸出門派，目前是所有門派中輸出最高的角色之一，她的技能組在造成大量傷害的同時，擁有豐富的的位移，靈活就是天忍的代名詞。她也正因如此，通過瞬間進場造成擊殺，擁有著打開團戰突破口的強大壓制力。&lt;/p&gt;
+&lt;p&gt;需要注意的是，天忍的技能位移相對重要，實戰中不急著全部交出，可以在各個技能之間多穿插普攻，利用好釋放技能後的普攻12米突進，完善技能組循環的同時讓角色更加靈活。&lt;/p&gt;
+&lt;h1 id=&#34;技能講解&#34;&gt;&lt;a href=&#34;#技能講解&#34; class=&#34;headerlink&#34; title=&#34;技能講解&#34;&gt;&lt;/a&gt;技能講解&lt;/h1&gt;&lt;p&gt;（主動技能數值以15級為例）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1技能：苦諦&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;襲&lt;/code&gt;】：獲得20魂火，向前滑行10米造成288%傷害，期間免控（修羅：增加1秒定身）&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;錯&lt;/code&gt;】：獲得20魂火，對8米矩形範圍造成兩段刀氣，第一段238%傷害和減速70%，第二段造成476%傷害（修羅：範圍擴大為12米，第二段增加擊退，刀氣爆裂造成200%傷害並眩暈2秒）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2技能：集諦&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;臨&lt;/code&gt;】：獲得20魂火，突進至12米處對5米範圍造成408%傷害，期間免控免傷害，減速其他招式1秒（修羅：使目標定身、沉默1.5秒，傷害提升至648%並擴大至6米範圍）&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;引&lt;/code&gt;】：獲得20魂火，拉回、沉默前方12米目標並造成648%傷害，若打斷施法則則減速5秒CD（修羅：拉回範圍提升為12米半徑，並沉默1秒，傷害提升至672%傷害並擴大2米範圍）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3技能：道諦&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;瞬&lt;/code&gt;】：獲得20點魂火，解控並對12米範圍目標造成222%傷害並免傷、免控4秒（修羅：使目標減速70%且禁輕功，持續3秒）&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;散&lt;/code&gt;】：獲得15點魂火，解控並對12米範圍目標造成222%傷害並免傷、免控3秒；每命中一個目標效果延長0.5秒且而外獲得2點魂火（修羅：使目標閃避降低30%，持續5秒）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4技能：滅諦&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;奇穴一【&lt;code&gt;斷&lt;/code&gt;】：獲得6點魂火，突進至10米範圍內，對路徑上目標造成144%傷害和1層標記，命中後可施展距離、傷害均提升的後續招式；施展4次後對15米範圍內目標結算，每層標記受到80%傷害、CD提高5秒（修羅：解控，對生命低於25%的目標造成的傷害提高50%）&lt;/p&gt;
+&lt;p&gt;奇穴二【&lt;code&gt;絕&lt;/code&gt;】：獲得20點魂火，突進至12米範圍內目標，造成8米*736%傷害並使其浮空，攻擊期間免控、免傷；收招時再次造成368%傷害（修羅：範圍內目標CD暫停，收招額外造成274%傷害）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;被動技能：&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;（主動技能數值以15級為例）&lt;/p&gt;
+&lt;p&gt;天忍核心機制——【&lt;code&gt;修羅&lt;/code&gt;】：積攢150點魂火可釋放【修羅道】進入【修羅】姿態，所有招式獲得加強，每秒消耗10魂火（持續15秒，期間釋放技能不再獲得魂火）&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;魂心&lt;/code&gt;】：提升角色20體質與30力量屬性；&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;業果&lt;/code&gt;】：每損失10%生命提高3%傷害；&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;疾羽&lt;/code&gt;】：重傷玩家後重置所有技能CD並回复10%生命值，120秒可觸發一次。&lt;/p&gt;
+&lt;h1 id=&#34;加點推薦&#34;&gt;&lt;a href=&#34;#加點推薦&#34; class=&#34;headerlink&#34; title=&#34;加點推薦&#34;&gt;&lt;/a&gt;加點推薦&lt;/h1&gt;&lt;h2 id=&#34;PVE&#34;&gt;&lt;a href=&#34;#PVE&#34; class=&#34;headerlink&#34; title=&#34;PVE&#34;&gt;&lt;/a&gt;PVE&lt;/h2&gt;&lt;p&gt;奇穴配置：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1技能：苦諦·錯（奇穴2）——兩段傷害，配合強化被動打出大量傷害&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2技能：集諦·引（奇穴2）——小聚怪，將前方怪物聚集之後配合其他輸出技能使用&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3技能：道諦·散（奇穴2）——兩段技能，第一段收割大量魂火，盡快進入【修羅】姿態&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4技能：滅諦·絕（奇穴2）——超大攻擊範圍群傷，配合強化被動對高血量野怪快速壓血&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;搭配思路：&lt;code&gt;優先群體傷害、大範圍輸出形式的技能，配合2技能拉回高效聚怪擊殺&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;BOSS&#34;&gt;&lt;a href=&#34;#BOSS&#34; class=&#34;headerlink&#34; title=&#34;BOSS&#34;&gt;&lt;/a&gt;BOSS&lt;/h2&gt;&lt;p&gt;奇穴配置：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1技能：苦諦·錯（奇穴2）——兩段傷害，配合強化被動打出大量傷害&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2技能：集諦·臨（奇穴1）——站樁輸出的核心技能，配合技能組降低大量冷卻&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3技能：道諦·散（奇穴2）——兩段技能，第一段收割大量魂火，盡快進入【修羅】姿態&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4技能：滅諦·斷（奇穴1）——對單神技，4次攻擊疊層結算爆發&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;搭配思路：&lt;code&gt;優先高傷害、輸出形式好的技能，短時間內輸出最大化&lt;/code&gt;&lt;/p&gt;
+&lt;h2 id=&#34;PVE加點順序（①、②通用）：&#34;&gt;&lt;a href=&#34;#PVE加點順序（①、②通用）：&#34; class=&#34;headerlink&#34; title=&#34;PVE加點順序（①、②通用）：&#34;&gt;&lt;/a&gt;PVE加點順序（①、②通用）：&lt;/h2&gt;&lt;p&gt;依舊按照優先點滿主動技能再點其他技能的原則，天忍的技能中，推薦優先加點傷害最高、範圍最大的4技能；&lt;/p&gt;
+&lt;p&gt;其次再加點2、1技能。2、1技能都擁有較高的倍率且配合被動有額外傷害或裂傷效果，進一步強化輸出，故優先加點；&lt;/p&gt;
+&lt;p&gt;3技能主要作用為拉回（聚怪）與攢魂火，技能等級不會影響這倆核心效果，故優先級較低；&lt;/p&gt;
+&lt;p&gt;強化被動技能之中，優先加點4技能，對高血量比例的目標額外造成傷害，快速壓低敵方血量。&lt;/p&gt;
+&lt;p&gt;PVE加點順序（文字版）：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;4技能＞2技能＞1技能＞4技能被動＞1技能被動＞3技能被動＞普攻＞被動1【魂心】＞被動2【業果】&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;沒有提到的技能，優先級不高，後面有多的點數隨意加就行。&lt;/p&gt;
+&lt;h2 id=&#34;PVP：團戰優先&#34;&gt;&lt;a href=&#34;#PVP：團戰優先&#34; class=&#34;headerlink&#34; title=&#34;PVP：團戰優先&#34;&gt;&lt;/a&gt;PVP：團戰優先&lt;/h2&gt;&lt;p&gt;奇穴配置：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1技能：苦諦·襲（奇穴1）——造成一定輸出的同時免控，迅速拉開、拉近距離&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2技能：集諦·臨（奇穴1）——入場技能，憑藉免傷免控無成本進場輸出&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3技能：道諦·瞬（奇穴1）——解控+免傷+免控，修羅狀態減速+禁輕功，快速創造自身輸出環境並限制敵方走位，讓下一個技能能夠打滿傷害（在大型團戰中可以帶奇穴2，目標越多，自身的無敵時間越長）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4技能：滅諦·斷（奇穴1）——針對性對單高爆發技能，持續位移+閃避加成規避傷害的同時造成大量傷害（大型團戰可以帶奇穴2，高額aoe傷害）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;搭配思路：更注重位移，將角色靈活性的優勢發揮到最大。確保自身安全進場→完成爆發→拉開距離&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/aCYvupS.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;PVP加點順序：&#34;&gt;&lt;a href=&#34;#PVP加點順序：&#34; class=&#34;headerlink&#34; title=&#34;PVP加點順序：&#34;&gt;&lt;/a&gt;PVP加點順序：&lt;/h2&gt;&lt;p&gt;依舊按照優先點滿主動技能再點其他技能的原則，天忍的技能中，推薦優先加點傷害最高、範圍最大的4技能；&lt;/p&gt;
+&lt;p&gt;其次再加點2技能，作為進場技能，免傷免控制的同時也能打出不低的傷害；&lt;/p&gt;
+&lt;p&gt;接著再加點1技能，配合強化被動冷卻時間很低，可以頻繁使用&lt;/p&gt;
+&lt;p&gt;3技能主要作用為解控+免傷+免控，為下一個技能創造輸出空間，升級帶來的減速也被限定在修羅狀態，故優先度相對較低；&lt;/p&gt;
+&lt;p&gt;被動技能之中，優先加點【業果】與【輪轉】，【業果】在實戰中帶來的加傷非常可觀，配合自身其他技能一波操作甚至能夠打出絲血反殺的效果。而【輪轉】在團戰中則會大幅度強化天忍的生存能力，擁有更長的輸出時間。&lt;/p&gt;
+&lt;p&gt;加點順序（文字版）：&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;4技能＞2技能＞1技能＞2技能被動＞1技能被動＞4技能被動＞被動2【業果】＞普攻＞被動3【輪轉】&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;沒有提到的技能，優先級不高，後面有多的點數隨意加就行。&lt;/p&gt;
+&lt;p&gt;常規技能循環&lt;/p&gt;
+&lt;h2 id=&#34;PVE野外修煉：&#34;&gt;&lt;a href=&#34;#PVE野外修煉：&#34; class=&#34;headerlink&#34; title=&#34;PVE野外修煉：&#34;&gt;&lt;/a&gt;PVE野外修煉：&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1技能：苦諦·錯（奇穴2）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2技能：集諦·引（奇穴2）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3技能：道諦·散（奇穴2）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4技能：滅諦·絕（奇穴2）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;連招：2技能→ 3技能→ 4技能→ 1技能→普攻&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;說明：首先2技能起手把小怪聚到一起並上裂傷buff，接3技能收割一波魂火；&lt;/p&gt;
+&lt;p&gt;然後趁小怪還在一起，再接4技能進行輸出，配合強化被動快速壓低敵方血線；&lt;/p&gt;
+&lt;p&gt;最後再使用1技能續上裂傷效果，普攻進行輸出。&lt;/p&gt;
+&lt;h2 id=&#34;PVP木樁輸出：&#34;&gt;&lt;a href=&#34;#PVP木樁輸出：&#34; class=&#34;headerlink&#34; title=&#34;PVP木樁輸出：&#34;&gt;&lt;/a&gt;PVP木樁輸出：&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1技能：苦諦·錯（奇穴2）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2技能：集諦·臨（奇穴1）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3技能：道諦·散（奇穴2）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4技能：滅諦·斷（奇穴1）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;連招：2技能→普攻→ 1技能→普攻→ 3技能（2段）→ 4技能（4段）&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;說明：在針對龍五、精英這一類搶輸出的木樁BOSS時，需要我們盡快打出大部分輸出。&lt;/p&gt;
+&lt;p&gt;因為技能可以打斷普攻後搖，所以我們可以在技能間多穿插普攻，輸出最大化的同時優化循環流程。&lt;/p&gt;
+&lt;p&gt;首先2技能起手，儘早進入CD並且吃到其他技能的減CD效果；接著交1、3技能，施加裂傷與收割魂火，最後4技能收尾，打完4段傷害。&lt;/p&gt;
+&lt;h2 id=&#34;PVP團戰：&#34;&gt;&lt;a href=&#34;#PVP團戰：&#34; class=&#34;headerlink&#34; title=&#34;PVP團戰：&#34;&gt;&lt;/a&gt;PVP團戰：&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;1技能：苦諦·襲（奇穴1）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;2技能：集諦·臨（奇穴1）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;3技能：道諦·瞬（奇穴1）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;4技能：滅諦·斷（奇穴1）&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;連招：2技能→ 1技能→ 3技能→ 4技能&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;說明：2技能起手，利用免傷免控無成本進場，之後穿插1次1技能，利用好冷卻優勢；&lt;/p&gt;
+&lt;p&gt;再接3技能給自己施加4秒的免傷免控，創造自身換血優勢；後接4技能，基本全程在3技能的免傷時間中釋放完4段4技能；&lt;/p&gt;
+&lt;p&gt;打完一套後1、2技能CD也快轉好了，再利用4技能強化被動的加傷進行輸出。&lt;/p&gt;
+&lt;p&gt;玩天忍的玩家一定要利用各個招式豐富的位移，靈活走位，避免長時間站樁輸出導致被控。&lt;/p&gt;
+&lt;p&gt;並且天忍施展技能的下一次普攻突進距離增加至12米，利用好普攻+方向鍵的位移，在各個技能間多穿插，可以更好地追擊目標，又或是與敵人保持在舒適的距離進行換血、拉扯。&lt;/p&gt;
+&lt;h1 id=&#34;裝備推薦&#34;&gt;&lt;a href=&#34;#裝備推薦&#34; class=&#34;headerlink&#34; title=&#34;裝備推薦&#34;&gt;&lt;/a&gt;裝備推薦&lt;/h1&gt;&lt;h2 id=&#34;詞條洗練：&#34;&gt;&lt;a href=&#34;#詞條洗練：&#34; class=&#34;headerlink&#34; title=&#34;詞條洗練：&#34;&gt;&lt;/a&gt;詞條洗練：&lt;/h2&gt;&lt;p&gt;裝備可以將其分成武器、衣服、防具（左邊四件）、首飾（右邊四件）四個分類來講解。&lt;/p&gt;
+&lt;p&gt;對於天忍門派來說，&lt;strong&gt;攻擊詞條優先度最高&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;攻擊類詞條：攻擊、力量、暴擊、暴擊傷害、靈巧、吸血、忽略全系抗性；&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;天忍作為輸出門派，優先選擇攻擊、力量這一類實打實加成面板的攻擊類詞條；&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;武器：武器比較特殊，擁有攻擊、吸血、忽略全系抗性三個特有詞條，僅在武器部位刷出，優先考慮。其次考慮力量、暴擊、暴擊傷害、靈巧詞條；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;衣服：衣服只能刷出防禦生存類詞條，選品質高的洗練就行；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;防具：即帽子、護腕、腰帶和鞋子；&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;首飾：即項鍊、戒指、護身符和玉佩；&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;防具和首飾屬性基本相似，以攻擊類詞條為洗練目標，優先攻擊、力量這種直接加成到面板的屬性。&lt;/p&gt;
+&lt;h2 id=&#34;兵魄推薦：&#34;&gt;&lt;a href=&#34;#兵魄推薦：&#34; class=&#34;headerlink&#34; title=&#34;兵魄推薦：&#34;&gt;&lt;/a&gt;兵魄推薦：&lt;/h2&gt;&lt;p&gt;目前每個版本能擺攤上架的兵魄都會有變化，一般來說，開啟新等級上限後，上一等級版本的最低級兵魄就不允許擺攤了。&lt;/p&gt;
+&lt;p&gt;以69級版本為例，開啟69等級上限後，白色的一級兵魄就無法通過擺攤獲取了。而且三級兵魄目前獲取難度較大，培養成本極高，所有這裡主要推薦性價比最高的二級兵魄為主。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/jUTLTJg.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/95a5ACb.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;護法推薦&#34;&gt;&lt;a href=&#34;#護法推薦&#34; class=&#34;headerlink&#34; title=&#34;護法推薦&#34;&gt;&lt;/a&gt;護法推薦&lt;/h1&gt;&lt;p&gt;目前角色提升到40級可以攜帶四個護法，護法給角色的屬性提升主要取決於他們的護主技能。天忍作為輸出門派，優先考慮加成輸出屬性的護法（力量、攻擊、暴擊、暴擊傷害、靈巧、忽略抗性、吸血）。&lt;/p&gt;
+&lt;p&gt;下面作者整理了目前所有輸出屬性的護法可供大家參考:&lt;/p&gt;
+&lt;p&gt;金色（臻）品質：&lt;code&gt;楊影楓（力量、忽略抗性）；完顏亮（攻擊、暴擊傷害）；龍五公子（力量、精準）；小艾（全系抗性、暴擊傷害）&lt;/code&gt;；&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/A7kK0wf.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;紫色（絕）品質：&lt;code&gt;殷童（攻擊、敏捷）；玄兆（暴擊、體質）；凌止（靈巧、暴擊抵抗）；小師妹（暴擊傷害、閃避）&lt;/code&gt;；&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/QBiHwgp.png&#34; alt=&#34;Image&#34;&gt;《劍俠世界3》天忍門派入門攻略&lt;/p&gt;
+&lt;p&gt;藍色（奇）品質：&lt;code&gt;楊銳（力量、暴擊抵抗）；曜鐵君子（暴擊、閃避）&lt;/code&gt;；&lt;/p&gt;
+&lt;p&gt;綠色（良）品質：&lt;code&gt;曜李武（暴擊）；曜陸鬼（暴擊傷害）&lt;/code&gt;；&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/asrbQ89.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;白色（凡）品質的護法不在考慮範圍內。&lt;/p&gt;
+&lt;p&gt;目前版本大家可以根據自己持有的護法進行選擇，優先選擇品質較高的護法。不過金色品質的護法培養成本較高，作者本人比較推薦平民玩家優先養成紫色護法~&lt;/p&gt;
+&lt;p&gt;其中首推殷童，她有著紫色護法中唯一的攻擊加成，實打實直接加成到角色面板上，是紫色輸出護法的天花板。&lt;/p&gt;
+&lt;p&gt;其次就是凌止和小師妹，其中凌止可以通過大俠路獲得，後續還能通過每日簽到白嫖護法碎片，進行階躍。&lt;/p&gt;
+&lt;h1 id=&#34;秘籍組合&#34;&gt;&lt;a href=&#34;#秘籍組合&#34; class=&#34;headerlink&#34; title=&#34;秘籍組合&#34;&gt;&lt;/a&gt;秘籍組合&lt;/h1&gt;&lt;p&gt;天忍作為追求極致輸出的門派，主秘籍只考慮攻擊類的秘籍，可選&lt;code&gt;【太玄經】&lt;/code&gt;或者&lt;code&gt;【天山六陽掌】&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;目前版本作者推薦以【太玄經】作為主秘籍，秘籍組合可以選擇的範圍較大（霸王扛鼎、柔中帶剛）。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/XKofhVf.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;秘籍組合：推薦組合為&lt;code&gt;【柔中帶剛】、【霸王扛鼎】、【內息澎湃】&lt;/code&gt;，這三個組合是攻擊類型屬性加成，同時前兩個主秘籍都為外功，推薦裝備主秘籍【太玄經】，後者推薦【天山六陽掌】作為主秘籍。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/zoDwELk.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="劍俠世界3" />
+        <category term="門派" />
+        <category term="天忍" />
+        <updated>2022-05-17T11:52:51.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.majitoo.net/2022/05/17/world3/work2/</id>
+        <title>《劍俠世界3》易水 門派入門</title>
+        <link rel="alternate" href="https://blog.majitoo.net/2022/05/17/world3/work2/"/>
+        <content type="html">&lt;h1 id=&#34;門派定位&#34;&gt;&lt;a href=&#34;#門派定位&#34; class=&#34;headerlink&#34; title=&#34;門派定位&#34;&gt;&lt;/a&gt;門派定位&lt;/h1&gt;&lt;p&gt;易水是水屬性門派，以傘為武器。門派特點是遠程、治療、免控。易水操作難度不高，技能好上手，在戰鬥中只要時刻能在隊友後方保持靈活移動，在保證隊友奶量的同時也能打出一定的輸出。&lt;/p&gt;
+&lt;h1 id=&#34;技能選擇&#34;&gt;&lt;a href=&#34;#技能選擇&#34; class=&#34;headerlink&#34; title=&#34;技能選擇&#34;&gt;&lt;/a&gt;技能選擇&lt;/h1&gt;&lt;h2 id=&#34;奇穴加點推薦&#34;&gt;&lt;a href=&#34;#奇穴加點推薦&#34; class=&#34;headerlink&#34; title=&#34;奇穴加點推薦&#34;&gt;&lt;/a&gt;奇穴加點推薦&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;被動技能&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/bWfeay7.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;上善&lt;/code&gt;】：提高生命上限和暴擊機率，不建議升級。&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;冰華&lt;/code&gt;】：為自身提供一個10s的護盾並在護盾期間免控，建議點滿。&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;逍遙&lt;/code&gt;】：在漂浮狀態時提高10%的傷害和治療效果並不會被減速，建議點滿。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;主動技能&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;普攻【霜月舞】：&lt;strong&gt;在2&amp;#x2F;3&amp;#x2F;4技能點滿之後再升級&lt;/strong&gt;。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;三段式攻擊，對12米範圍內多個目標造成傷害&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;1 技能【扶搖九天• 散華&amp;#x2F;泡影】：&lt;strong&gt;在2&amp;#x2F;3&amp;#x2F;4技能點滿之後再升級&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;立即解控並進入15s的漂浮狀態，並在施展後5s內免控。&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;散華&lt;/code&gt;】擊退周圍目標並造成傷害和遲緩，&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;泡影&lt;/code&gt;】向前躍出並對周圍目標造成傷害和浮空。&lt;/p&gt;
+&lt;p&gt;被動【歸元】不建議升級。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2 技能【玉泉魚躍• 雙疊&amp;#x2F;寒衣】：&lt;strong&gt;主輸出技能，建議點滿&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;【&lt;code&gt;雙疊&lt;/code&gt;】在目標區域召喚靈魚，靈魚躍起和落下會造成兩次傷害。&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;寒衣&lt;/code&gt;】在目標位置落下靈魚，目標區域內多個目標同時受到傷害。&lt;/p&gt;
+&lt;p&gt;被動【&lt;code&gt;越淵&lt;/code&gt;】給【雙疊】增加減速和眩暈效果，給【寒衣】增加遲緩效果並根據敵人數量給自身增加抗性。&lt;strong&gt;在4技能被動點滿後再升級&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3 技能【碧海潮生• 縱浪&amp;#x2F;合流】：&lt;strong&gt;副治療&amp;#x2F;輸出技能，建議點滿&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;【&lt;code&gt;縱浪&lt;/code&gt;】會釋放一個5s的區域，區域內的所有友方受到治療和減傷效果，所有敵方會受到持續傷害。&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;合流&lt;/code&gt;】會向外放出5把傘，每把傘4米範圍內對敵方造成傷害，傘收回會爆裂並造成傷害。&lt;/p&gt;
+&lt;p&gt;被動【&lt;code&gt;潮暖&lt;/code&gt;】給【縱浪】提升治療和傷害效果，給【回流】造成減速和眩暈效果。&lt;strong&gt;建議在2&amp;#x2F;4技能被動點滿後升級&lt;/strong&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4 技能【臨淵羨魚• 霜降&amp;#x2F;穀雨】：&lt;strong&gt;主輸出&amp;#x2F;治療技能，建議點滿&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;【&lt;code&gt;霜降&lt;/code&gt;】對12米範圍內的敵方造成持續4秒的傷害並在此期間免控。&lt;/p&gt;
+&lt;p&gt;【&lt;code&gt;穀雨&lt;/code&gt;】對12米範圍內的友方提供持續4秒的治療並在此期間免控。&lt;/p&gt;
+&lt;p&gt;被動【&lt;code&gt;落霜&lt;/code&gt;】給【霜降】增加血量最低目標的額外傷害效果，給【穀雨】增加友方解控效果。&lt;strong&gt;優先點滿&lt;/strong&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;輸出奇穴推薦&#34;&gt;&lt;a href=&#34;#輸出奇穴推薦&#34; class=&#34;headerlink&#34; title=&#34;輸出奇穴推薦&#34;&gt;&lt;/a&gt;輸出奇穴推薦&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;PVP奇穴：&lt;code&gt;【泡影】+【寒衣】+【縱浪】+【霜降】&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;這一套技能是先用1技能【泡影】讓敵方浮空並進入漂浮免控狀態，讓敵方浮空方便天忍等近戰門派貼臉輸出，自身的免控避免在後續進行治療或輸出時被敵方打斷，再用4技能【霜降】和2技能【寒衣】輔助隊友進行輸出和收割殘血，3技能【縱浪】可以保證在輸出時也有足夠的奶量對自身和隊友回血，而且【縱浪】對敵方持續5秒的基礎傷害也可以避免在治療時被敵方近身。&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;PVE奇穴：&lt;code&gt;【散華】+【雙疊】+【合流】+【穀雨】&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;野怪不像玩家有靈活的位移，所以在打PVE時主要注意躲避boss技能就好，這一套技能先用1技能【散華】和4技能【穀雨】讓自身全程保持靈活的位移，主要用2技能【雙疊】和3技能【合流】對野怪造成傷害，並用4技能【穀雨】保證自身和隊友的血量，提高全隊的續航能力。&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;治療奇穴推薦：&lt;code&gt;【散華】+【寒衣】+【縱浪】+【穀雨】&lt;/code&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;全治療奇穴主要是用在隊友輸出足夠的PVP戰鬥中，被動給1技能【散華】提供的解除五行異常狀態和【散華】的推出敵人並獲得免控狀態可以避免敵人的貼臉攻擊，2技能【寒衣】可以讓易水在隊友後方也能及時收割殘血並給敵人減速，治療以4技能【穀雨】為主，能給隊友提供充足的奶量，3技能【縱浪】的奶量不多但附帶的基礎傷害可以優先給血量最低的隊友，保證隊友不會在治療期間被突臉攻擊。&lt;/p&gt;
+&lt;h1 id=&#34;裝備推薦&#34;&gt;&lt;a href=&#34;#裝備推薦&#34; class=&#34;headerlink&#34; title=&#34;裝備推薦&#34;&gt;&lt;/a&gt;裝備推薦&lt;/h1&gt;&lt;p&gt;裝備的來源除了在各種活動中掉落之外，只有通過家族打造才能獲得。在品質上&lt;code&gt;橙色&amp;gt;紫色&amp;gt;藍色&amp;gt;綠色&amp;gt;白色&lt;/code&gt;，一般我們都會選擇紫色以上品質的裝備來使用。&lt;br&gt;裝備上的詞條可以&lt;strong&gt;洗練&lt;/strong&gt;，依然是按照橙紫藍綠白的順序洗練，高級詞條充裕的情況下，可以按照&lt;code&gt;生命類&amp;gt;防禦抗性類&amp;gt;免傷類&amp;gt;暴擊爆傷類&amp;gt;反傷生命回复類&lt;/code&gt;去進行搭配，兵魄的選擇也是同理。&lt;br&gt;易水作為唯一的治療門派，自身的續航和抗性十分重要，在團戰中易水不用打出很高的輸出或控制，只需要在後方保證能一直遊走給隊友加血就行，可以根據下表來選擇裝備詞條和兵魄&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/SGGbSGX.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;注：攻擊類（力量、攻擊、靈巧、暴擊爆傷、忽抗）防禦類（體質、生命、抗性、生命回复、暴擊抵抗免傷、反傷）&lt;/strong&gt;&lt;/p&gt;
+&lt;h1 id=&#34;秘籍推薦&#34;&gt;&lt;a href=&#34;#秘籍推薦&#34; class=&#34;headerlink&#34; title=&#34;秘籍推薦&#34;&gt;&lt;/a&gt;秘籍推薦&lt;/h1&gt;&lt;p&gt;根據易水門派的特點，推薦防禦類屬性和秘籍，激活組合可以選擇：外-外-外，內-外-外。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/WLbrcai.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;輸出秘籍：&lt;code&gt;太玄經、紫霞神功、天山六陽、落英神劍&lt;/code&gt; &lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;防禦秘籍：&lt;code&gt;逍遙遊、洗髓經、凌波微步五&lt;/code&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;護法推薦&#34;&gt;&lt;a href=&#34;#護法推薦&#34; class=&#34;headerlink&#34; title=&#34;護法推薦&#34;&gt;&lt;/a&gt;護法推薦&lt;/h1&gt;&lt;p&gt;護法主要是通過護主技能給角色提供屬性加成，而護主技能會根據護法戰力的提升來升級，所以我們在護法的挑選上盡量選擇對自身屬性加成高，並且可培養的空間更大的護法上陣。&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;橙色護法：難以獲取，有就用。如果擁有多名橙色護法，根據護主技能建議上陣：&lt;code&gt;楊影楓+龍五公子+冷啟+白秋琳&lt;/code&gt;。這一套護法可以提升易水的暴擊傷害和自身抗性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/mqYRSqC.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;紫色護法：&lt;code&gt;小師妹+靈瓏+凌止+殷童&lt;/code&gt;。這一套護法也主要是為了提升易水的輸出能力和自身抗性。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/3AUddDW.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;紫色+藍色護法：&lt;code&gt;凌止+小師妹+悟真大師+耀•秋月&lt;/code&gt;，凌止和小師妹是前期很容易獲取的護法，是必帶的，剩下的兩名藍色護法推薦加輸出的秋月和加抗性的悟真大師，也可以根據需要自行搭配。&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/n9Ugdhg.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="劍俠世界3" />
+        <category term="門派" />
+        <category term="易水" />
+        <updated>2022-05-17T11:36:01.000Z</updated>
+    </entry>
+    <entry>
+        <id>https://blog.majitoo.net/2022/05/17/world3/work1/</id>
+        <title>《劍俠世界3》武當 門派入門</title>
+        <link rel="alternate" href="https://blog.majitoo.net/2022/05/17/world3/work1/"/>
+        <content type="html">&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/aUlP6wG.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;技能簡介&#34;&gt;&lt;a href=&#34;#技能簡介&#34; class=&#34;headerlink&#34; title=&#34;技能簡介&#34;&gt;&lt;/a&gt;技能簡介&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/WSnJ3q1.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;主動技能&#34;&gt;&lt;a href=&#34;#主動技能&#34; class=&#34;headerlink&#34; title=&#34;主動技能&#34;&gt;&lt;/a&gt;主動技能&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;普攻北斗訣：3次範圍形遞增傷害，在技能調息時間較長的情況下，我們可以在技能中穿插普攻來進行輸出 &lt;/li&gt;
+&lt;li&gt;1技能——天璇劍氣&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;天璇劍氣天璇劍氣•坎&lt;/code&gt;：群傷控制技能，定身12米範圍內目標，造成範圍傷害&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;天璇劍氣•離&lt;/code&gt;：傷害減速技能，對12米矩形範圍內目標造成傷害，減速70%&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2技能——天璣劍陣&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;天璣劍陣•兌&lt;/code&gt;：浮空傷害技能，生成劍陣，持續範圍傷害，同時暫停敵方技能cd&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;天璣劍陣••艮&lt;/code&gt;：免控生存技能，生成劍陣，提供免控減傷，充盈狀態提供回復生命值&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;3技能——天權劍意&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;天權劍意•震&lt;/code&gt;：突進控制技能，提供遠程範圍傷害和範圍控制技能&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;天權劍意•巽&lt;/code&gt;：擊退增傷技能，對敵方造成擊退效果，給我方提供增傷buff&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;4技能——天樞劍道&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;code&gt;天樞劍道•坤&lt;/code&gt;：多段單體高傷技能，充盈狀態提供封輕功效果&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;天樞劍道•乾&lt;/code&gt;：沉默眩暈技能，充盈狀態提供減療效果&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;加點：&lt;code&gt;加點推薦4 &amp;gt; 1 &amp;gt; 2 = 普攻&amp;gt; 3&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;前期3技能點1級即可&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/5hEsArI.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;被動技能&#34;&gt;&lt;a href=&#34;#被動技能&#34; class=&#34;headerlink&#34; title=&#34;被動技能&#34;&gt;&lt;/a&gt;被動技能&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;核心機制【&lt;code&gt;道心&lt;/code&gt;】：每隔兩秒种獲得一柄氣劍，八柄氣劍後施展下一招式獲得強化並不佔用調息時間。根據這樣的被動能夠增加我們的戰斗方式，並且根據氣劍的數量來進行技能的銜接搭配，是武當職業核心玩法之一&lt;/li&gt;
+&lt;li&gt;【&lt;code&gt;尋道&lt;/code&gt;】提高自身敏捷和靈巧：前期可以先點5點，後期有多餘的再點&lt;/li&gt;
+&lt;li&gt;【&lt;code&gt;雨墨&lt;/code&gt;】受控時免傷持續1s：有多餘的點數再點&lt;/li&gt;
+&lt;li&gt;【&lt;code&gt;盈擊&lt;/code&gt;】控製成功時給自己增傷：優先點，推薦點滿後再點其他被動&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;技能搭配&#34;&gt;&lt;a href=&#34;#技能搭配&#34; class=&#34;headerlink&#34; title=&#34;技能搭配&#34;&gt;&lt;/a&gt;技能搭配&lt;/h1&gt;&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/CNSH566.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;坤釋放中不免控，PVP要帶坤最好是搭配艮的免控陣一起使用&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;PVP基礎連招：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;code&gt;2技能兌 → 4技能乾 → 1技能坎 → 普攻 &lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;起手2技能兌遠距離使目標浮空，浮空後接4技能乾沉默使目標無法使用解控，然後用1技能坎的定身補足控制使乾的傷害打滿，最後用普攻繼續輸出&lt;/p&gt;
+&lt;p&gt;這一連招可以讓對方吃滿整套傷害，如果浮空後沒接上沉默可以使用3技能震拉扯距離，拖技能CD&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;PVE基礎連招：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;將小怪聚集後，釋放3技能小牆，站在牆後可以獲得增傷效果，釋放後接4技能坤使傷害最大化，隨後釋放1技能離與2技能艮提供群體持續傷害&lt;/p&gt;
+&lt;h1 id=&#34;裝備搭配&#34;&gt;&lt;a href=&#34;#裝備搭配&#34; class=&#34;headerlink&#34; title=&#34;裝備搭配&#34;&gt;&lt;/a&gt;裝備搭配&lt;/h1&gt;&lt;p&gt;裝備獲取以家族打造為主，日常活動等有機率掉落裝備。&lt;br&gt;遊戲內&lt;strong&gt;裝備品質&lt;/strong&gt;等級分為&lt;code&gt;白-綠-藍-紫-橙&lt;/code&gt;，每件裝備有6條附加屬性，6條屬性均可通過洗練來更換。&lt;br&gt;&lt;strong&gt;屬性詞條&lt;/strong&gt;根據顏色分為&lt;code&gt;白、綠、藍、紫、橙&lt;/code&gt;。根據屬性分為攻擊詞條與防禦詞條。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;兵魄等級&lt;/strong&gt;同樣也是從低到高分為&lt;code&gt;白、綠、藍、紫、橙&lt;/code&gt;。屬性也分為攻擊與防禦。&lt;/p&gt;
+&lt;p&gt;武當作為控制爆發職業，優先洗練攻擊詞條：&lt;code&gt;暴擊、攻擊、力量、靈巧、暴傷、靈巧&lt;/code&gt;。兵魄也優先&lt;code&gt;攻擊類&lt;/code&gt;屬性。&lt;/p&gt;
+&lt;h1 id=&#34;秘籍推薦&#34;&gt;&lt;a href=&#34;#秘籍推薦&#34; class=&#34;headerlink&#34; title=&#34;秘籍推薦&#34;&gt;&lt;/a&gt;秘籍推薦&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;輸出秘籍：太玄經、紫霞神功、天山六陽、落英神劍&lt;/li&gt;
+&lt;li&gt;防禦秘籍：逍遙遊、洗髓經、凌波微步&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;武當優先選擇&lt;strong&gt;輸出類秘籍&lt;/strong&gt;。秘籍組合優先選擇&lt;code&gt;霸王扛鼎、柔中帶剛和內息澎湃&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ejw04hS.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/YHx3QxL.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;護法推薦&#34;&gt;&lt;a href=&#34;#護法推薦&#34; class=&#34;headerlink&#34; title=&#34;護法推薦&#34;&gt;&lt;/a&gt;護法推薦&lt;/h1&gt;&lt;p&gt;護法大家可以理解為寶寶，護法等級從低到高分為凡-良-奇-絕-臻，分別對應白色、綠色、藍色、紫色、橙色。橙色為最優護法。&lt;/p&gt;
+&lt;p&gt;護法最大上陣數量根據玩家等級提升，最多可以上陣4個。不同的護法擁有不同的護主技能，在選擇護法時主要需要選擇適合本職業的護主技能。&lt;/p&gt;
+&lt;p&gt;武當為土系輸出門派，&lt;code&gt;優先力量、攻擊、暴擊、暴擊傷害、木抗和忽略土抗&lt;/code&gt;。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;推薦橙色護法：&lt;code&gt;龍五公子（力量、閃避、暴擊）、小艾/岳銀屏/雨師（暴擊、靈巧、吸血）、楊影楓（閃避、暴擊抵抗、攻擊）&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/ucuCkqV.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;紫色護法：&lt;code&gt;推薦殷童（力量、閃避、暴擊）&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/crago1H.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;藍色護法：&lt;code&gt;推薦趙其烈、曜•北狄劍客（敏捷、木抗、忽略土抗）&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/DUga28N.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;綠色護法：&lt;code&gt;推薦北狄劍客（力量、閃避、暴擊）&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/Rz8YSBW.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;白色護法：&lt;code&gt;推薦凡•傅選（敏捷、木抗、忽略土抗）&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/jAZOkqI.png&#34; alt=&#34;Image&#34;&gt;&lt;/p&gt;
+</content>
+        <category term="劍俠世界3" />
+        <category term="武當" />
+        <category term="門派" />
+        <updated>2022-05-17T09:19:36.000Z</updated>
+    </entry>
+</feed>

@@ -1,0 +1,83 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>LINE遊戲群機器人-兔管家 • Posts by &#34;兔管家&#34; tag</title>
+        <link>https://blog.majitoo.net</link>
+        <description>遊戲群機器人-兔管家，遊戲攻略集成網站</description>
+        <language>zh-TW</language>
+        <pubDate>Fri, 04 Mar 2022 12:22:35 +0800</pubDate>
+        <lastBuildDate>Fri, 04 Mar 2022 12:22:35 +0800</lastBuildDate>
+        <category>lineBot</category>
+        <category>機器人</category>
+        <category>兔管家</category>
+        <category>兔管家更新</category>
+        <category>V3.1.0</category>
+        <category>遊戲攻略</category>
+        <category>夢幻新誅仙</category>
+        <category>仙友</category>
+        <category>陣容</category>
+        <category>探靈</category>
+        <category>異聞</category>
+        <category>奇遇</category>
+        <category>奇緣</category>
+        <category>RO愛如初見</category>
+        <category>新手須知</category>
+        <category>新手</category>
+        <category>YT阿萬</category>
+        <category>屬性相剋</category>
+        <category>體型修正</category>
+        <category>波利手冊</category>
+        <category>波利</category>
+        <category>劍俠世界3</category>
+        <category>每日活動</category>
+        <category>限時活動</category>
+        <category>掛機</category>
+        <category>練功</category>
+        <category>戰力</category>
+        <category>裝備</category>
+        <category>武當</category>
+        <category>門派</category>
+        <category>易水</category>
+        <category>天忍</category>
+        <category>天王</category>
+        <category>白麓</category>
+        <category>升級</category>
+        <category>寵物</category>
+        <category>寵物圖鑑</category>
+        <item>
+            <guid isPermalink="true">https://blog.majitoo.net/2022/03/04/bot/botNote/</guid>
+            <title>兔管家使用規定與申請開通</title>
+            <link>https://blog.majitoo.net/2022/03/04/bot/botNote/</link>
+            <category>lineBot</category>
+            <category>機器人</category>
+            <category>兔管家</category>
+            <pubDate>Fri, 04 Mar 2022 12:22:35 +0800</pubDate>
+            <description><![CDATA[ &lt;h1 id=&#34;兔管家是什麼&#34;&gt;&lt;a href=&#34;#兔管家是什麼&#34; class=&#34;headerlink&#34; title=&#34;兔管家是什麼?&#34;&gt;&lt;/a&gt;兔管家是什麼?&lt;/h1&gt;&lt;p&gt;兔管家是一個在Line群組使用的免費機器人系統，可以協助群組管理員管理會員名單，設定攻略關鍵字。並支援所列出的遊戲提供相關攻略檢索。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://lin.ee/Dj8NIuf&#34;&gt;&lt;img height=&#34;36&#34; border=&#34;0&#34; src=&#34;https://scdn.line-apps.com/n/line_add_friends/btn/zh-Hant.png&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://i.imgur.com/PnkzdWh.png&#34; alt=&#34;兔管家QRCODE&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;兔管家支援遊戲&#34;&gt;&lt;a href=&#34;#兔管家支援遊戲&#34; class=&#34;headerlink&#34; title=&#34;兔管家支援遊戲&#34;&gt;&lt;/a&gt;兔管家支援遊戲&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;RO ORIGIN(愛如初見)&lt;/li&gt;
+&lt;li&gt;ROX 新世代&lt;/li&gt;
+&lt;li&gt;天諭&lt;/li&gt;
+&lt;li&gt;三國志戰略版&lt;/li&gt;
+&lt;li&gt;二之國&lt;/li&gt;
+&lt;li&gt;口袋戰爭&lt;/li&gt;
+&lt;li&gt;哈利波特|魔法覺醒&lt;/li&gt;
+&lt;li&gt;夢幻新誅仙&lt;/li&gt;
+&lt;li&gt;幻塔&lt;/li&gt;
+&lt;li&gt;天龍八部2&lt;/li&gt;
+&lt;li&gt;劍俠世界3&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;使用須知&#34;&gt;&lt;a href=&#34;#使用須知&#34; class=&#34;headerlink&#34; title=&#34;使用須知&#34;&gt;&lt;/a&gt;使用須知&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;個人模式僅能使用攻略查找功能造成不便請見諒&lt;/li&gt;
+&lt;li&gt;兔管家首次入群後請輸入&lt;code&gt;設定資料庫&lt;/code&gt;完成遊戲資料庫連結才可使用所有群組功能&lt;/li&gt;
+&lt;li&gt;兔管家入群後如需切換群組綁定遊戲資料需要將兔管家踢出群重新加入後重新設定(簽到內容、學習內容會清空)&lt;/li&gt;
+&lt;li&gt;兔管家請輸入&lt;code&gt;功能&lt;/code&gt;開啟功能列表，大部分指令可以使用自行輸入或點選方式執行&lt;/li&gt;
+&lt;li&gt;兔管家為免費使用，請友善使用，有遇到問題可以提出，但請耐心等待回復&lt;/li&gt;
+&lt;li&gt;兔管家進群後會看到群組內的所有留言，請勿在兔管家加入後在群裡發布各種隱私內容，避免爭議&lt;/li&gt;
+&lt;li&gt;如未支援的遊戲需擴充可在底下留言，管理員有空會新增&lt;/li&gt;
+&lt;/ol&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>
